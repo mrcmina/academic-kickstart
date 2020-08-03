@@ -33,9 +33,6 @@ education:
   - course: MSc in Forestry and Environmental Science
     institution: University of Padua, Italy
     year: 2010
-  - course: BSc in Forestry and Environmental Technology
-    institution: University of Padua, Italy
-    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
