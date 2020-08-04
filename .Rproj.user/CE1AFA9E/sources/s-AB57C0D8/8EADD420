@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596580698340.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8EADD420",
+    "lastKnownWriteTime" : 1596555833,
+    "last_content_update" : 1596555833,
+    "path" : "C:/Github/academic-kickstart/config/_default/config.toml",
+    "project_path" : "config/_default/config.toml",
+    "properties" : {
+        "cursorPosition" : "12,13",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
