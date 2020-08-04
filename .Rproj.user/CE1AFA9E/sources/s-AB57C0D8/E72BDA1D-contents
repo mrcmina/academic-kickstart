@@ -45,24 +45,25 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ForesThink
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marco-mina-814b1844/ 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XRJCBLgAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mrcmina/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Marco_Mina3
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marco-mina-814b1844/  
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1087862/marco-mina/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7489-7688 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mrcmina/
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/1087862/marco-mina/
+
   
  
 # Link to a PDF of your resume/CV from the About widget.
