@@ -13,7 +13,7 @@ title = "About me"
 author = "admin"
 
 [header]
-  image = "forestblur.jpg"
+  image = "static/img/forestblur.jpg"
   caption = ""
 +++
 +++
