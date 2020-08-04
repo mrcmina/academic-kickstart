@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596569825801.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "934940915",
+    "id" : "777EB19F",
+    "lastKnownWriteTime" : 1596422360,
+    "last_content_update" : 1596422360,
+    "path" : "C:/Github/academic-kickstart/static/admin/config.yml",
+    "project_path" : "static/admin/config.yml",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
