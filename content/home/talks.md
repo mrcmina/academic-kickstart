@@ -1,13 +1,13 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
+# A Talks & Conferences section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks, seminars and conferences"
 subtitle = ""
 
 [content]
