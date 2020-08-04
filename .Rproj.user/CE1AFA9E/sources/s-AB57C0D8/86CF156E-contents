@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:mina.marco@courrier.uqam.ca".
-- icon: cv
-  icon_pack: ai
-  link: files/marcomina_cv.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ForesThink
