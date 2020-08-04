@@ -81,7 +81,6 @@ user_groups:
 - Visitors
 ---
 
-+++
 
 I am a forest ecologist with a special interest in better understanding how to manage forests in a future characterized by global environmental changes.  
 
