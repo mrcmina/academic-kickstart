@@ -16,4 +16,3 @@ author = "admin"
   image = "static/img/forestblur.jpg"
   caption = ""
 +++
-+++
