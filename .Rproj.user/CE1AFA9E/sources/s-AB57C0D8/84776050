@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596579544794.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3939056265",
+    "id" : "84776050",
+    "lastKnownWriteTime" : 1596579704,
+    "last_content_update" : 1596579704920,
+    "path" : "C:/Github/academic-kickstart/data/themes/my_theme.toml",
+    "project_path" : "data/themes/my_theme.toml",
+    "properties" : {
+        "cursorPosition" : "3,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
