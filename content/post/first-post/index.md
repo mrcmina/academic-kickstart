@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Are ash trees doomed?
+date: 2019-07-28
 math: true
 diagram: true
 image:
