@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3939056265",
+    "hash" : "3190202371",
     "id" : "84776050",
-    "lastKnownWriteTime" : 1596579704,
-    "last_content_update" : 1596579704920,
+    "lastKnownWriteTime" : 1596579859,
+    "last_content_update" : 1596579859094,
     "path" : "C:/Github/academic-kickstart/data/themes/my_theme.toml",
     "project_path" : "data/themes/my_theme.toml",
     "properties" : {
-        "cursorPosition" : "3,17",
+        "cursorPosition" : "1,16",
         "scrollLine" : "0"
     },
     "relative_order" : 6,
