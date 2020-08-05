@@ -1,22 +1,22 @@
 ---
 title: REDEFiNE
-summary: Resilience-based forest management: Coupling simulation modelling with functional diversity and network theory.
+summary: Resilience-based forest management with network theory.
 tags:
-- forest resilience
+- Forest Resilience
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: ""
-  focal_point: ""
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
