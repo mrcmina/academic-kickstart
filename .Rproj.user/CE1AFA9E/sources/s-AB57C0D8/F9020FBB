@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1596598675038.000,
+    "created" : 1596598928024.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3786061640",
-    "id" : "2E35B02",
-    "lastKnownWriteTime" : 1596598802,
-    "last_content_update" : 1596598802394,
+    "hash" : "0",
+    "id" : "F9020FBB",
+    "lastKnownWriteTime" : 1596598907,
+    "last_content_update" : 1596598907,
     "path" : "C:/Github/academic-kickstart/content/post/efi_3/index.md",
     "project_path" : "content/post/efi_3/index.md",
     "properties" : {
         "cursorPosition" : "12,87",
         "scrollLine" : "0"
     },
-    "relative_order" : 13,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
