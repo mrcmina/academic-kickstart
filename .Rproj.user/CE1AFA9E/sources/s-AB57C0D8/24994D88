@@ -15,7 +15,7 @@
         "cursorPosition" : "20,8",
         "scrollLine" : "4"
     },
-    "relative_order" : 3,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "toml"

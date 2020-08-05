@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "867322336",
+    "hash" : "3209316031",
     "id" : "86CF156E",
-    "lastKnownWriteTime" : 1596582956,
-    "last_content_update" : 1596582956795,
+    "lastKnownWriteTime" : 1596595709,
+    "last_content_update" : 1596595709996,
     "path" : "C:/Github/academic-kickstart/content/authors/admin/_index.md",
     "project_path" : "content/authors/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "44,0",
-        "scrollLine" : "38"
+        "cursorPosition" : "20,43",
+        "scrollLine" : "12"
     },
-    "relative_order" : 8,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

@@ -18,10 +18,10 @@ organizations:
   url: "http://www.cef-cfr.ca/index.php?n=Membres.MarcoMina"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include forest ecosystems dynamics, forest management and global change impacts.
+bio: Forest ecologists, cross-country skier and mountain lover.
 
 interests:
-- Forest dynamics and succession modelling
+- Forest dynamic modelling
 - Impacts of climate change and disturbances on forest ecosystems
 - Management, silviculture and ecosystem services provision from temperate forests
 
@@ -45,9 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ForesThink
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marco-mina-814b1844/ 
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/marco-mina-814b1844/ 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XRJCBLgAAAAJ&hl=en
@@ -80,6 +80,6 @@ email: ""
 
 I am a forest ecologist with a special interest in better understanding how to manage forests in a future characterized by global environmental changes.  
 
-My work aims at evaluating the dynamics of forest ecosystems, mostly in Europe and North America, and anticipating the potential impacts of changing climate and natural disturbance regimes. I use stand and landscape models of forest dynamics to explore interactions of trees with their changing environment and to investigate management strategies to enhance forest resistance and resilience to future challenges. I am currently working on combining simulation modelling approaches with functional diversity and network connectivity to promote resilience in fragmented forest landscapes in Eastern North America.
+My work aims at evaluating the dynamics of forest ecosystems, mostly in Europe and North America, and anticipating the potential impacts of changing climate and natural disturbance regimes. I use mathematical simulation models of forest dynamics to explore interactions of trees with their changing environment and to investigate management strategies to enhance forest resistance and resilience to future challenges at multiple scales (stand to landscape). I am currently working on combining simulation modelling approaches with functional diversity and network connectivity to promote resilience in fragmented forest landscapes in Eastern North America. I am also passionate in dendrology, geography, silviculture, tree-ring research, forest inventory and the ecology of mixed forests.
 
-I am also passionate in dendrology, geography, silviculture, tree-ring research, forest inventory and the ecology of mixed forests.  
+I am currently based in Montreal, Canada, at the [CEF - Centre for Forest Research](http://www.cef-cfr.ca/index.php?n=Actualit%e9.Accueil?userlang=en) at the the [Université du Quebéc à Montreal UQAM](https://uqam.ca/)
