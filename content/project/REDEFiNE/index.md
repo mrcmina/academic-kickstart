@@ -1,6 +1,6 @@
 ---
 title: REDEFiNE
-summary: Resilience-based forest management with network theory.
+summary: Resilience-based forest management with network theory
 tags:
 - Forest Resilience
 date: "2020-01-01T00:00:00Z"
