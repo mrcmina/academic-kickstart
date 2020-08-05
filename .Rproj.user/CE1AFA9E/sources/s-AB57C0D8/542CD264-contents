@@ -1,6 +1,6 @@
 ---
 title: Are ash trees doomed?
-date: 2019-07-28
+date: 2020-07-28
 math: true
 diagram: true
 image:
