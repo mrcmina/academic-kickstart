@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1596599729433.000,
+    "created" : 1596638797126.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "115419066",
-    "id" : "918AD16A",
-    "lastKnownWriteTime" : 1596602154,
-    "last_content_update" : 1596602154246,
+    "hash" : "4079134127",
+    "id" : "4972F23A",
+    "lastKnownWriteTime" : 1596639601,
+    "last_content_update" : 1596639601216,
     "path" : "C:/Github/academic-kickstart/content/project/REDEFiNE/index.md",
     "project_path" : "content/project/REDEFiNE/index.md",
     "properties" : {
-        "cursorPosition" : "55,13",
-        "scrollLine" : "38"
+        "cursorPosition" : "37,12",
+        "scrollLine" : "20"
     },
-    "relative_order" : 5,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

@@ -6,6 +6,12 @@ diagram: true
 image:
   placement: 3
   caption: ""
+  
+links:
+- icon_pack: fab
+   icon: wordpress
+   name: Originally published on Forest Monitor
+   url: 'http://www.forest-monitor.com/en/are-ash-trees-doomed/'
 ---
 
 Ash trees have been part of North American and European forest landscapes for millennia. Yet, they are now under threats from invasive pests and pathogens (ash dieback and the emerald ash borer). I report here some updated information on ash’s conservation status and their battle for survival in our landscapes.
