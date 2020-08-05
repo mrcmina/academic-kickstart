@@ -74,7 +74,6 @@ email: ""
 
 ---
 
-
 I am a forest ecologist with a special interest in better understanding how to manage forests in a future characterized by global environmental changes.  
 
 My work aims at evaluating the dynamics of forest ecosystems, mostly in Europe and North America, and anticipating the potential impacts of changing climate and natural disturbance regimes. I use mathematical simulation models of forest dynamics to explore interactions of trees with their changing environment and to investigate management strategies to enhance forest resistance and resilience to future challenges at multiple scales (stand to landscape). I am currently working on combining simulation modelling approaches with functional diversity and network connectivity to promote resilience in fragmented forest landscapes in Eastern North America. I am also passionate in dendrology, geography, silviculture, tree-ring research, forest inventory and the ecology of mixed forests.
