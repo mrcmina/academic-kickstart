@@ -1,7 +1,7 @@
 ---
 title: SWISS-SPEMIXMOD
 summary: Species Mixture Effects on Tree Growth in Swiss forests
-tags = ["Mixed forests", "Statistical modelling", "Forest Inventory", "Switzerland"]
+tags : ["Mixed forests", "Statistical modelling", "Forest Inventory", "Switzerland"]
 date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
