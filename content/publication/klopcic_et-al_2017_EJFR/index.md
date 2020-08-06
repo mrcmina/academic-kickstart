@@ -24,7 +24,7 @@ abstract: paste abstract
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "publication/folder/filename.pdf"
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
