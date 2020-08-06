@@ -10,10 +10,10 @@ doi: ""
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article; 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Deliverable EU project FP7-289437-ARANGE / D2.1"
 publication_short: ""
 
 abstract: Forest models are valuable tools that permit us to simulate forest dynamics at high accuracy and detail at different spatio-temporal scales. This is important to evaluate the spatial interdepend-encies of ecosystem goods and services. A wide range of state-of-the-art models of forest dynam-ics have been developed by the modeling partners of the ARANGE consortium. The set of forest models available in ARANGE includes both stand-level and landscape-level approaches, i.e. PICUS [BOKU]; ForClim and LandClim [ETHZ]; SAMSARA/CAPSIS [IRSTEA]; SILVA-SI/WEKA [UL]; Heureka [SLU]; SIBYLA [NFC]; MOSES [BOKU] and BIOME-BGC [BOKU]. In the first project year, model development and adaptation of the models to the ARANGE Case Study Areas (CSAs) has taken place; some models were applied preliminarily in several ARANGE CSAs, while others were tested mainly in one CSA. Most of the models were improved in terms of their structure and behavior with respect to a range of features. Overall, the forest models available in ARANGE have been tested for a wide range of conditions in the CSAs, and they have been set up so as to be ready for model application in the CSAs under specific site conditions, using measured stand data for model initialization. The next steps will be to define the management regimes so as to be able to simulate realistic forest structure data.
