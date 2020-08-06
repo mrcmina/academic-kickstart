@@ -50,8 +50,8 @@ The project has been supported by a grant from the Swiss State Secretariat for E
 ## Project staff
 
  - **Marco Mina** *WSL Birmensdorf* - project partner
- - **Brigitte Rohner** *WSL Birmensdorf* - project lead
- - **Esther Thurig** *WSL Birmensdorf* - deputy project lead
+ - **Brigitte Rohner** *WSL Birmensdorf* - deputy project lead
+ - **Esther Thurig** *WSL Birmensdorf* -  project lead
  - **Markus Huber** *WSL Birmensdorf* - project partner
  - **Peter Brang** *WSL Birmensdorf*  - project partner
  - **Petia Simeonova Nikolova** *WSL Birmensdorf*  - project partner
@@ -60,9 +60,9 @@ The project has been supported by a grant from the Swiss State Secretariat for E
 
 ## Key publications
 
-**Mina M**, Huber MO, Forrester DI, Thürig E, Rohner B (2018) *Multiple factors modulate tree growth complementarity in central European mixed forests*. Journal of Ecology. 106:1106–1119. [Featured in the Journal of Ecology Blog](https://jecologyblog.com/2017/09/18/diversity-effects-in-temperate-mixed-forests-are-modulated-by-stand-and-environmental-factors/)  
+**Mina M**, Huber MO, Forrester DI, Thürig E, Rohner B (2018) [*Multiple factors modulate tree growth complementarity in central European mixed forests*]({{< ref "/publication/mina_et-al_2018_JEcol/index.md" >}}). Journal of Ecology. 106:1106–1119. Featured in the [Journal of Ecology Blog](https://jecologyblog.com/2017/09/18/diversity-effects-in-temperate-mixed-forests-are-modulated-by-stand-and-environmental-factors/)  
 
-**Mina M**, Del Rio M, Huber MO, Thürig E, Rohner B (2018) *The symmetry of competitive interactions in mixed Norway spruce, silver fir and European beech forests*. Journal of Vegetation Science. 29:775–787. [Featured in the Journal of Vegetation Science Blog Blog](https://jvsavsblog.org/2018/09/15/the-symmetry-of-competition-a-battle-crown-to-crown-or-roots-to-roots/) and in the [EFI Resilience Blog](https://resilience-blog.com/2018/10/16/the-symmetry-of-competition-does-the-battle-take-place-above-or-below-our-feet/)
+**Mina M**, Del Rio M, Huber MO, Thürig E, Rohner B (2018) [*The symmetry of competitive interactions in mixed Norway spruce, silver fir and European beech forests*]({{< ref "/publication/mina_et-al_2018_JVegSci/index.md" >}}). Journal of Vegetation Science. 29:775–787. Featured in the [Journal of Vegetation Science Blog](https://jvsavsblog.org/2018/09/15/the-symmetry-of-competition-a-battle-crown-to-crown-or-roots-to-roots/) and in the [EFI Resilience Blog](https://resilience-blog.com/2018/10/16/the-symmetry-of-competition-does-the-battle-take-place-above-or-below-our-feet/)
 
 Nikolova, P.S.; Rohner, B.; Zell, J.; Brang, P., (2019) [Tree species dynamics in Swiss forests as affected by site, stand and management: a retrospective analysis](https://www.sciencedirect.com/science/article/abs/pii/S0378112719302373?via%3Dihub). Forest Ecology and Management, 448: 278-293.
 
