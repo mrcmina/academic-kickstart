@@ -1,5 +1,5 @@
 ---
-title: "Wood energy fuel cycle optimization in beech and spruce forests"
+title: "Forward modeling of tree-ring width improves simulation of forest growth responses to drought"
 authors:
 - Mina M.
 - Martin-Benito D.
