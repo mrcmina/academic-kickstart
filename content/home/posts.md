@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Blog Posts"
-subtitle = "I occasionally publish posts in [Forest Monitor](http://www.forest-monitor.com/en/) and in the [EFI Resilience Blog](https://resilience-blog.com/)<br>[Follow Forest Monitor on Facebook](https://www.facebook.com/forestmonitor)"
+subtitle = "I occasionally publish posts in [Forest Monitor](http://www.forest-monitor.com/en/) and in the [EFI Resilience Blog](https://resilience-blog.com/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
