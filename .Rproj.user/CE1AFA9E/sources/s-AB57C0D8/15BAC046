@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "120748536",
+    "hash" : "1727044557",
     "id" : "15BAC046",
-    "lastKnownWriteTime" : 1596688604,
-    "last_content_update" : 1596688604956,
+    "lastKnownWriteTime" : 1596741116,
+    "last_content_update" : 1596741116131,
     "path" : "C:/Github/academic-kickstart/content/project/SPEMIXMOD/index.md",
     "project_path" : "content/project/SPEMIXMOD/index.md",
     "properties" : {
-        "cursorPosition" : "4,15",
-        "scrollLine" : "0"
+        "cursorPosition" : "65,582",
+        "scrollLine" : "52"
     },
-    "relative_order" : 4,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

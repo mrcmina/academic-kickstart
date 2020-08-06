@@ -30,6 +30,10 @@ url_video: ""
 slides: example
 ---
 
+## Project duration
+2016-2018 (completed)
+
+
 ## Project overview
 **Integrating Species Mixtures in Tree Growth Functions for Forest Development Models in Switzerland (Swiss-SpeMixMod)**
 
@@ -42,9 +46,6 @@ The project  advances the understanding of the effects of species mixtures on tr
 The project has been carried out by researchers at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html), Birmesdorf, Switzerland. Part of the project was developed in partnership with [INIA Madrid](http://www.inia.es/IniaPortal/verPresentacionIngles.action), Spain who hosted *Marco Mina* for a research stay in January and May 2017.  
 
 The project has been supported by a grant from the Swiss State Secretariat for Education, Research and Innovation (SERI) under the framework of the COST Action FP1206 EuMIXFOR of the European Union. 
-
-## Project duration
-2016-2018
 
 
 ## Project staff

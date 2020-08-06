@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "437590748",
     "id" : "4235E158",
-    "lastKnownWriteTime" : 1596639601,
-    "last_content_update" : 1596639601,
+    "lastKnownWriteTime" : 1596741284,
+    "last_content_update" : 1596741284599,
     "path" : "C:/Github/academic-kickstart/content/project/REDEFiNE/index.md",
     "project_path" : "content/project/REDEFiNE/index.md",
     "properties" : {
-        "cursorPosition" : "37,12",
-        "scrollLine" : "20"
+        "cursorPosition" : "66,281",
+        "scrollLine" : "54"
     },
-    "relative_order" : 3,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

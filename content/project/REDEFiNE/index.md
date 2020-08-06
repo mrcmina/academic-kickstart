@@ -34,6 +34,10 @@ url_video: ""
 slides: example
 ---
 
+## Project duration
+2018-
+
+
 ## Project overview
 **REDEFiNE: REsilience Diversity landscapE Forest NEtwork**
 
@@ -49,7 +53,7 @@ The project follows three main research steps:
 
 This project will test novel and innovative ways to implement resilience-based forest management for large fragmented forest landscapes that are typical of temperate ecosystems.
 
-The project has been financed via a career funding scheme awarded to Marco Mina by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx)  (Postdoc Mobility [Grant N. 175101](http://p3.snf.ch/project-175101)) and is carried on thanks to funding by the [Canada Research Chair in Forest Resilience to Global Changes](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=4449) awarded to [Christian Messier](http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier). 
+The project has been financed in 2018-2019 via a career funding scheme awarded to Marco Mina by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx)  (Postdoc Mobility [Grant N. 175101](http://p3.snf.ch/project-175101)). The project is continuing thanks to funding by the [Canada Research Chair in Forest Resilience to Global Changes](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=4449) awarded to [Christian Messier](http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier). 
 
 ## Partners and collaborators
 
@@ -60,4 +64,6 @@ The project has been financed via a career funding scheme awarded to Marco Mina 
 
 ## Key publications
 
-*to be added*
+**Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2020). [*Network analysis can guide resilience-based management in forest landscapes under global change*]({{< ref "/publication/mina_et-al_2012_EcolApp/index.md" >}}). Ecological Applications. Accepted. **Coming soon!!**
+
+Messier C, Bauhus J, Doyon F, Maure F, Sousa-Silva R, Nolet P, **Mina M**, Aquilué N, Fortin MJ and Puettmann K (2019). [*The functional complex network approach to foster forest resilience to global changes*]({{< ref "/publication/messier_et-al_2019_ForEcosy/index.md" >}}). Forest Ecosystems 6:21. Summarized in the [EFI Resilience Blog](https://resilience-blog.com/2019/04/11/managing-forests-functional-complex-networks/)
