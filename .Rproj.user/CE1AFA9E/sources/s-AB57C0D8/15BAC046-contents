@@ -1,6 +1,6 @@
 ---
-title: Species Mixture Effects on Tree Growth - SwissSPEMIXMOD
-summary: Species Mixture Effects on Tree Growth
+title: SWISS-SPEMIXMOD
+summary: Species Mixture Effects on Tree Growth in Swiss forests
 tags:
 - Mixed forests, Statistical modelling, Forest Inventory, Switzerland
 date: "2018-01-01T00:00:00Z"
