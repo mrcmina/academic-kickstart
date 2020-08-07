@@ -32,7 +32,7 @@ url_pdf: "publication/mina_et-al_2018_JEcol/Mina_2018_JEcol.pdf"
 url_code: ''
 url_dataset: "https://doi.org/10.5061/dryad.r8591"
 url_poster: ''
-url_project: "{{< ref "/project/spemixmod/index.md" >}}"
+url_project: "/project/spemixmod/"
 url_slides: ''
 url_source: ''
 url_video: ''
