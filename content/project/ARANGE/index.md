@@ -67,7 +67,7 @@ My entire PhD project was embedded in ARANGE, which allowed me to collaborate wi
  - [**Florian Irauschek**](https://www.researchgate.net/profile/Florian_Irauschek) *BOKU Vienna, now at the Austrian Research Centre for Forests, Austria* - project partner and co-author
  - [**Thomas Cordonnier**](https://orcid.org/0000-0003-3684-4662) *INRAE Grenoble, France* - project partner and co-author
  - [**Marta Pardos**](https://www.researchgate.net/profile/Marta_Pardos) *INIA Madrid, Spain* - project partner and co-author
-  - [**Manfred J. Lexer **](https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=159) *BOKU Vienna, Austria* - ARANGE coordinator
+  - [**Manfred J. Lexer**](https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=159) *BOKU Vienna, Austria* - ARANGE coordinator
 
 
 
