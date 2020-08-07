@@ -50,8 +50,6 @@ The project has been supported by a grant from the Swiss State Secretariat for E
 
 ## Partners and collaborators
 
-[**name**](https://link)
-
  - [**Esther Thurig**](https://www.wsl.ch/en/employees/thuerig.html), *WSL Birmensdorf* -  project lead
  - [**Brigitte Rohner**](https://www.wsl.ch/en/employees/rohnerb.html), *WSL Birmensdorf* - deputy project lead
  - **Markus Huber**, *WSL Birmensdorf* - project partner
