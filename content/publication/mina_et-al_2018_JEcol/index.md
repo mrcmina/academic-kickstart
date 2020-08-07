@@ -15,7 +15,7 @@ doi: "https://doi.org/10.1111/1365-2745.12846"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured = true
+featured: true
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Ecology* 106(3), 1106-1119"
