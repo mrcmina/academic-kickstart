@@ -54,10 +54,10 @@ In ARANGE, state-of-the-art **models of forest dynamics** at stand and landscape
 
 ARANGE has been a Collaborative Project within FP7 (Theme KBB.2011.1.2-07) funded by the European Commission. The consortium comprised in total 16 partner institutions from 11 countries and the European Forest Institute (EFI) as an international partner, coordinating institution was the Institute of Silviculture, University of Natural Resources and Life Sciences, Vienna (BOKU).
 
-My entire PhD project was embedded in ARANGE, which allowed me to collaborate with many researchers across Europe (see below). The collaboratie EU project was also funding my PhD which was carried out at the [Chair of Forest Ecology at ETH Zurich](https://fe.ethz.ch/en/), Switzerland, under the supervision of [Prof. Harald Bugmann](https://fe.ethz.ch/en/die-gruppe/people/person-detail.NDA4Mzg=.TGlzdC8zNTM3LDk0OTc0MDY5Nw==.html)
+My entire PhD project was embedded in ARANGE, which allowed me to collaborate with many researchers across Europe (see below). The EU project was also funding my PhD which was carried out at the [Chair of Forest Ecology at ETH Zurich](https://fe.ethz.ch/en/), Switzerland, under the supervision of [Prof. Harald Bugmann](https://fe.ethz.ch/en/die-gruppe/people/person-detail.NDA4Mzg=.TGlzdC8zNTM3LDk0OTc0MDY5Nw==.html)
 
 
-## Project partners and collaborators within my PhD project
+## Project partners and collaborators
 
  - [**Harald Bugmann**](https://fe.ethz.ch/en/die-gruppe/people/person-detail.NDA4Mzg=.TGlzdC8zNTM3LDk0OTc0MDY5Nw==.html) *ETH Zurich* - WP leader in ARANGE and PhD supervisor
  - [**Maxime Cailleret**](https://orcid.org/0000-0001-6561-1943) *ETH Zurich now at INRAE Aix-en-Provence, France* - PhD co-supervisor and co-author
