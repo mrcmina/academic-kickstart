@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1596772400944.000,
+    "created" : 1596835879589.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3824979636",
-    "id" : "17329754",
+    "hash" : "0",
+    "id" : "E6BCB9F",
     "lastKnownWriteTime" : 1596775652,
-    "last_content_update" : 1596775652949,
+    "last_content_update" : 1596775652,
     "path" : "C:/Github/academic-kickstart/content/publication/mina_et-al_2018_JEcol/index.md",
     "project_path" : "content/publication/mina_et-al_2018_JEcol/index.md",
     "properties" : {
-        "cursorPosition" : "34,33",
+        "cursorPosition" : "34,34",
         "scrollLine" : "24"
     },
-    "relative_order" : 9,
+    "relative_order" : 7,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
