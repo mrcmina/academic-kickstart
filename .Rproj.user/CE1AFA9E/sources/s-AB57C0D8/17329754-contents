@@ -30,7 +30,7 @@ abstract: Mixed species forests can often be more productive and deliver higher 
 #   url: ""
 url_pdf: "publication/mina_et-al_2018_JEcol/Mina_2018_JEcol.pdf"
 url_code: ''
-url_dataset:"https://doi.org/10.5061/dryad.r8591"
+url_dataset: "https://doi.org/10.5061/dryad.r8591"
 url_poster: ''
 url_project: "project/SPEMIXMOD/index.md"
 url_slides: ''
