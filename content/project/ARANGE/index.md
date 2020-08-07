@@ -37,39 +37,50 @@ slides: example
 ## Project overview
 **Advanced multifunctional management of European mountain forest RANGE (ARANGE)**
 
-CHANGE DETAILS BELOW
+The project [**Advanced multifunctional forest management in European mountain RANGEs**](http://www.arange-project.eu/) evaluated the capacity of current forest management regimes and possible alternative future management to provide portfolios of ecosystem services (ES) from mountain forests. The project included a wide range of forest types in the major European mountain ranges and seeks to develop and evaluate strategies for their multifunctional management under risk and uncertainty due to changing climate and socio-economic conditions. To analyse conflicts and complementarities among ES from stand to landscape scale, improved models for the assessment and projection of ES as well as novel planning and decision support tools have been developed and applied to regional case studies as informed by decision makers and other stakeholders in the study regions.
 
-The interest for **mixed-species forests** has been rising during the past years. There is a broad consensus that forests with higher species diversity are likely to be more adaptable to climate change, resilient to disturbances and provider of a higher level of ecosystem services. Although several studies showed that under certain conditions mixed-species forests can be more productive than single-species stands, the representation of species interactions in empirical forest scenario models has not received much attention so far.
+The overall aims of ARANGE have been:
+- to investigate the potentials and limitations of current and possible future approaches to mountain forest management for providing portfolios of ES under current and future climatic and socio-economic conditions
+- to identify related risks and uncertainties
+- to translate the scientific state of knowledge about the efficient provision of multiple ES from mountain forests into decision support for policy makers and forest practitioners, so as to improve the robustness of planning tools in real-world decision making.
 
-The main objective of this project is to investigate methodologies for **quantifying the effects of species mixtures** on tree growth along Switzerland’s environmental gradients, and to prepare this knowledge for the use in forest scenario calculations. The project comprises of three major parts: (1) a systematic, descriptive analysis of data from the Swiss National Forest Inventory (NFI) to provide an overview of the **frequency and the distribution of pure and mixed forests in Switzerland**; (2) quantification of **mixing effects** with nonlinear mixed-effect models fitted to NFI data and their variability with climatic, edaphic, stand and site conditions, as well as with species composition, across Switzerland’s environmental gradient; (3) identification of the different **modes of intra- and inter-specific interactions** using competition indices in Swiss mixed-species forests and their integration in growth functions.
+The project addressed four main ecosystem services:
+- timber production
+- protection against gravitational natural hazards
+- the role of forests in climate change mitigation via carbon sequestration as well as bioenergy production, and
+- nature conservation and the maintenance of biodiversity
 
-The project  advances the understanding of the effects of species mixtures on tree growth under a broad range of environmental conditions in Switzerland. Additionally, it prepares this knowledge for further development of state-of-the-art forest scenario models, which are crucial tools for estimating potential wood supply and for supporting management decisions.
+In ARANGE, state-of-the-art models of forest dynamics at stand and landscape scales have be used. The development focus of the project was on  (i) the quantitative assessment of a range of ES, and (ii) in planning and decision support tools and approaches.
 
-The project has been carried out by researchers at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html), Birmesdorf, Switzerland. Part of the project was developed in partnership with [INIA Madrid](http://www.inia.es/IniaPortal/verPresentacionIngles.action), Spain who hosted *Marco Mina* for a research stay in January and May 2017.  
+ARANGE has been a Collaborative Project within FP7 (Theme KBB.2011.1.2-07) funded by the European Commission. The consortium comprised in total 16 partner institutions from 11 countries and the European Forest Institute (EFI) as an international partner, coordinating institution was the Institute of Silviculture, University of Natural Resources and Life Sciences, Vienna (BOKU).
 
-The project has been supported by a grant from the Swiss State Secretariat for Education, Research and Innovation (SERI) under the framework of the COST Action FP1206 EuMIXFOR of the European Union. 
+My PhD project was embedded in ARANGE, which funded my PhD that was carried out at the [Chair of Forest Ecology at ETH Zurich](https://fe.ethz.ch/en/), Switzerland, under the supervision of [Prof. Harald Bugmann](https://fe.ethz.ch/en/die-gruppe/people/person-detail.NDA4Mzg=.TGlzdC8zNTM3LDk0OTc0MDY5Nw==.html)
 
 
-## Project partners
+## Project partners and collaborators within my PhD project
 
-change with partner institutions 
-
- - **Marco Mina** *WSL Birmensdorf* - project partner
- - **Brigitte Rohner** *WSL Birmensdorf* - deputy project lead
- - **Esther Thurig** *WSL Birmensdorf* -  project lead
- - **Markus Huber** *WSL Birmensdorf* - project partner
- - **Peter Brang** *WSL Birmensdorf*  - project partner
- - **Petia Simeonova Nikolova** *WSL Birmensdorf*  - project partner
+ - [**Harald Bugmann**](https://fe.ethz.ch/en/die-gruppe/people/person-detail.NDA4Mzg=.TGlzdC8zNTM3LDk0OTc0MDY5Nw==.html) *ETH Zurich* - WP leader in ARANGE and PhD supervisor
+ - [**Maxime Cailleret**](https://orcid.org/0000-0001-6561-1943) *ETH Zurich now at INRAE Aix-en-Provence, France* - PhD co-supervisor and co-author
+- [**Dario Martin-Benito**](https://dmartinbenito.wordpress.com/) *ETH Zurich now at INIA Madrid, Spain* - collaborator and co-author in a chapter of my PhD
+ - [**Che Elkin**](https://www.unbc.ca/che-elkin) *ETH Zurich now at University of Northern British Columbia* - project partner and co-author
+ - [**Matija Klopčič**](http://zaposleni.bf.uni-lj.si/en/personel/matija-klopcic) *University of Ljubljana, Slovenia* - project partner and co-author
+ - [**Florian Irauschek**](https://www.researchgate.net/profile/Florian_Irauschek) *BOKU Vienna, now at the Austrian Research Centre for Forests, Austria* - project partner and co-author
+ - [**Thomas Cordonnier**](https://orcid.org/0000-0003-3684-4662) *INRAE Grenoble, France* - project partner and co-author
+ - [**Marta Pardos**](https://www.researchgate.net/profile/Marta_Pardos) *INIA Madrid, Spain* - project partner and co-author
+  - [**Manfred J. Lexer **](https://forschung.boku.ac.at/fis/suchen.person_uebersicht?sprache_in=en&menue_id_in=101&id_in=159) *BOKU Vienna, Austria* - ARANGE coordinator
 
 
 
 ## Key publications
  
-to change with my PhD publications
+**Mina M**, Bugmann H, Cordonnier T, Irauschek F, Klopcic M, Pardos M, Cailleret M. (2017). [*Future ecosystem services from European mountain forests under climate change*]({{< ref "/publication/mina_et-al_2017_JAppEco/index.md" >}}). Journal of Applied Ecology, 54(2), 389–401.
 
-**Mina M**, Huber MO, Forrester DI, Thürig E, Rohner B (2018) [*Multiple factors modulate tree growth complementarity in central European mixed forests*]({{< ref "/publication/mina_et-al_2018_JEcol/index.md" >}}). Journal of Ecology. 106:1106–1119. Featured in the [Journal of Ecology Blog](https://jecologyblog.com/2017/09/18/diversity-effects-in-temperate-mixed-forests-are-modulated-by-stand-and-environmental-factors/)  
+**Mina M**, Martin-Benito D, Bugmann H, Cailleret M. (2016). [*Forward modeling of tree-ring width improves simulation of forest growth responses to drought*]({{< ref "/publication/mina_et-al_2016_agrformet/index.md" >}}). Agricultural and Forest Meteorology, 221, 13–33.
 
-**Mina M**, Del Rio M, Huber MO, Thürig E, Rohner B (2018) [*The symmetry of competitive interactions in mixed Norway spruce, silver fir and European beech forests*]({{< ref "/publication/mina_et-al_2018_JVegSci/index.md" >}}). Journal of Vegetation Science. 29:775–787. Featured in the [Journal of Vegetation Science Blog](https://jvsavsblog.org/2018/09/15/the-symmetry-of-competition-a-battle-crown-to-crown-or-roots-to-roots/) and in the [EFI Resilience Blog](https://resilience-blog.com/2018/10/16/the-symmetry-of-competition-does-the-battle-take-place-above-or-below-our-feet/)
+**Mina M**, Bugmann H, Klopcic M, Cailleret M. (2017). [*Accurate modeling of harvesting is key for projecting future forest dynamics: a case study in the Slovenian mountains*]({{< ref "/publication/mina_et-al_2017_REEC/index.md" >}}). Regional Environmental Change, 17(1), 49–64.
 
-Nikolova, P.S.; Rohner, B.; Zell, J.; Brang, P., (2019) [Tree species dynamics in Swiss forests as affected by site, stand and management: a retrospective analysis](https://www.sciencedirect.com/science/article/abs/pii/S0378112719302373?via%3Dihub). Forest Ecology and Management, 448: 278-293.
+Klopčič M, **Mina M**, Bugmann H, Boncina A. (2017). [*The prospects of silver fir (Abies alba Mill.) and Norway spruce (Picea abies (L.) Karst) in mixed mountain forests under various management strategies, climate change and high browsing pressure*]({{< ref "/publication/klopcic_et-al_2017_EJFR/index.md" >}}). European Journal of Forest Research, 136(5–6), 1071–1090.
+
+Irauschek F, Barka I, Bugmann H, Courbaud B, Elkin C, Hlásny T, Klopcic M, **Mina M**, Rammer W, Lexer MJ. Evaluating five forest models using multi-decadal inventory data from mountain forests. *In review*
+
 
