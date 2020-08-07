@@ -30,7 +30,7 @@ url_pdf: "publication/mina_et-al_2018_JVegSci/Mina_2018_JVegSci.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: "/project/spemixmod/""
+url_project: "/project/spemixmod/"
 url_slides: ''
 url_source: ''
 url_video: ''
