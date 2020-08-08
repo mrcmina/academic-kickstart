@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3903035025",
+    "hash" : "0",
     "id" : "EA915E00",
     "lastKnownWriteTime" : 1596908390,
     "last_content_update" : 1596908390148,
     "path" : "C:/Github/academic-kickstart/content/publication/mina_et-al_2016_agrformet/index.md",
     "project_path" : "content/publication/mina_et-al_2016_agrformet/index.md",
     "properties" : {
-        "cursorPosition" : "30,31",
+        "cursorPosition" : "30,13",
         "scrollLine" : "21"
     },
-    "relative_order" : 5,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
