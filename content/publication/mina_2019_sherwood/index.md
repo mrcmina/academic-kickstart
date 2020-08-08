@@ -6,7 +6,7 @@ authors:
 - Motta R.
 - Cailleret M.
 date: "2019-01-01T00:00:00Z"
-doi: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742"
+doi: ""
 
 
 # Publication type.
@@ -22,8 +22,8 @@ abstract: Adverse climate change effects might compromise the future provision o
 
 
 # links:
-# - name: ""
-#   url: ""
+- name: "Archive"
+url: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742"
 url_pdf: "publication/mina_2019_sherwood/Mina_Sherwood_2019.pdf"
 url_code: ''
 url_dataset: ''
