@@ -26,7 +26,7 @@ url_pdf: "publication/mina_bugmann_2013/Mina_Bugmann_2013_ARANGE_D2.1.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: '/project/arange/'
 url_slides: ''
 url_source: ''
 url_video: ''
