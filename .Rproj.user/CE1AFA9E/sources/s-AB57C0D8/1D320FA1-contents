@@ -21,16 +21,16 @@ publication_short: ""
 abstract: Adverse climate change effects might compromise the future provision of crucial ecosystem services (ES) /rom European mountain forests. Using a forest dynamic model, we evaluated the future supply of ES - as we/1 as synergies and trade-offs - in case study areas of tour mountain regions under multiple management and climate change scenarios. lmpacts of climate change on the provision of ES were found to be high/y heterogeneous and to depend on the region, site and future climate. Although in some cases alternative management may be more suitable than current regimes, adaptation options must be evaluated local/y due to the highly different magnitude of the climate change impacts in different regions and along elevation gradients
 
 
-links:
-- name: "Archive"
-url: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742"
+# links:
+# - name: ""
+# url: ""
 url_pdf: "publication/mina_2019_sherwood/Mina_Sherwood_2019.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: '/project/arange/'
 url_slides: ''
-url_source: ''
+url_source: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742""
 url_video: ''
 
 ---
