@@ -30,7 +30,7 @@ url_dataset: ''
 url_poster: ''
 url_project: '/project/arange/'
 url_slides: ''
-url_source: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742""
+url_source: "https://www.dora.lib4ri.ch/wsl/islandora/object/wsl:19742"
 url_video: ''
 
 ---
