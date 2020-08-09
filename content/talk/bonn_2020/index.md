@@ -1,5 +1,5 @@
 ---
-title: Coupling simulation modelling with network theory to evaluate resilience to global change in fragmented forest landscapes
+title: Future trajectories in fragmented forest landscapes - linking simulation modelling with the functional complex network approach
 summary: Conference 
 
 all_day: false
