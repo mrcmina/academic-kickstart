@@ -1,6 +1,6 @@
 ---
-title: The challenge of managing forests for multiple ecosystem services in a changing world
-date: 2020-03-26
+title: Managing forests as functional complex networks
+date: 2019-04-11
 math: true
 diagram: true
 image:
@@ -8,9 +8,9 @@ image:
   caption: ""
 ---
 
-On 26-28 February 2020, about 200 scientists – forest ecologists, economists, policy analysts and conservationists – as well as interested stakeholders, students and practitioners from Europe and beyond gathered together in Bonn, Germany, to discuss scientific evidence relating to the current state of ‘integrated’ forest management approaches across the globe. Here’s my attempt of a short reportage of three very dense days in the European Forest City 2020. 
+Although a variety of forest management approaches to cope with climate change have been proposed worldwide, what has been missing so far is a way to integrate them at appropriate scales, particularly at landscape level, and to put a primary focus on enhancing forest resilience in the Anthropocene.  
 
 The post is published in the website [EFI Resilience Blog](https://resilience-blog.com/) 
 
-Here's [the link to the post](https://resilience-blog.com/2020/03/26/the-challenge-of-managing-forests-for-multiple-ecosystem-services-in-a-changing-world/)
+Here's [the link to the post](https://resilience-blog.com/2019/04/11/managing-forests-functional-complex-networks/)
 
