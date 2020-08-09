@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Ecological Applications* Accepted"
 publication_short: ""
 
-abstract: ***Coming soon!***
+abstract: Coming soon!
 
 
 # links:
