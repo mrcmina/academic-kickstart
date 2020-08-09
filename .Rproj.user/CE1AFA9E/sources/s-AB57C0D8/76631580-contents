@@ -1,5 +1,5 @@
 ---
-title: The symmetry of competition: does the battle take place above or below our feet?
+title: The symmetry of competition. Does the battle take place above or below our feet?
 date: 2018-07-16
 math: true
 diagram: true
