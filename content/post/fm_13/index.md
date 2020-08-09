@@ -5,7 +5,7 @@ math: true
 diagram: true
 image:
   placement: 3
-  caption: ""
+  caption: "Photo: M.Mina"
 ---
 
 In September 2017 I participated to a very dynamic field-week that took place in Tuscany, Italy. Here international students had the chance to discuss new concepts in forest management, such as viewing forest ecosystems as complex adaptive systems. One of the organisers, Prof. Christian Messier form the University of Quebec, recently published an article proposing a novel approach for managing forested landscapes at multiple spatial scales. 
