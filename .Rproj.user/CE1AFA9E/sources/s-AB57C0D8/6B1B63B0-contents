@@ -1,5 +1,5 @@
 ---
-title: The symmetry of competition: a battle crown-to-crown or roots-to-roots?
+title: The symmetry of competition. A battle crown-to-crown or roots-to-roots?
 date: 2018-09-15
 math: true
 diagram: true
