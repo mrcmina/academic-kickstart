@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*Forests* 9(2), 83"
 publication_short: ""
 
-abstract: Although mixing tree species...
+abstract: Although mixing tree species is considered an efficient risk-reduction strategy in the face of climate change, the conditions where mixtures are more productive than monocultures are under ongoing debate. Generalizations have been difficult because of the variety of methods used and due to contradictory findings regarding the effects of the species investigated, mixing proportions, and many site and stand conditions. Using data from 960 plots of the Swiss National Forest Inventory data, we assessed whether Picea abies (L.) Karst–Fagus sylvatica L. mixed stands are more productive than pure stands, and whether the mixing effect depends on site- or stand-characteristics. The species proportions were estimated using species proportion by area, which depends on the maximum stand basal area of an unmanaged stand
 
 
 # links:
