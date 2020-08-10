@@ -1,12 +1,13 @@
 ---
-title: Forest landscapes as functional complex networks - a new approach to increase multi-scale resilience to global change 
-summary: Invited Seminar
+title: Modelling forest dynamics - From stand to landscape
+
+summary: Invited Guest Lecturer
 
 all_day: false
 authors: []
-date: "2020-02-28T11:00:00Z"
-#date_end: "2020-02-28T00:00:00Z"
-event: WSL Colloquia
+date: "2019-11-18T10:00:00Z"
+#date_end: "20XX-MM-DDT00:00:00Z"
+event: title_of_the_event
 event_url: ''
 featured: false
 image:
@@ -18,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Birmensdorf, Switzerland
+location: Université du Quebéc à Montreal UQAM and UQO, Canada
 
 math: true
 publishDate: ""

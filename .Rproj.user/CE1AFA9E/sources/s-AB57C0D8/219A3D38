@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597025837005.000,
+    "created" : 1597026127657.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4155479837",
-    "id" : "7640DD1F",
-    "lastKnownWriteTime" : 1597025941,
-    "last_content_update" : 1597025941425,
+    "hash" : "1632890286",
+    "id" : "219A3D38",
+    "lastKnownWriteTime" : 1597026135,
+    "last_content_update" : 1597026135268,
     "path" : "C:/Github/academic-kickstart/content/talk/wsl_feb2020/index.md",
     "project_path" : "content/talk/wsl_feb2020/index.md",
     "properties" : {
-        "cursorPosition" : "20,34",
-        "scrollLine" : "4"
+        "cursorPosition" : "1,57",
+        "scrollLine" : "0"
     },
-    "relative_order" : 8,
+    "relative_order" : 9,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
