@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Talks, seminars and conferences"
-subtitle = "See my [CV](static/files/cv.pdf) for full list"
+subtitle = "See my [CV](/files/cv.pdf) for full list"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
