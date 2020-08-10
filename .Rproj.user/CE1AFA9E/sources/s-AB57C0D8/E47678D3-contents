@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Talks, seminars and conferences"
-subtitle = "Recent ones. {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} for full list"
+subtitle = {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} "for full list"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
