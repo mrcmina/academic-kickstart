@@ -9,7 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Talks, seminars and conferences"
 subtitle = ""
-#Recent ones. Contributions prior 2016 see {{% staticref "files/marcomina_cv.pdf" %}}full CV{{% /staticref %}}
+#Recent ones. Contributions prior 2016 see {{% staticref "files/cv.pdf" %}}full CV{{% /staticref %}}
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
