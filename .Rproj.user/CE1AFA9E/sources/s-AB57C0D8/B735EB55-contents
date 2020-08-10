@@ -1,12 +1,12 @@
 ---
-title: Species mixing in growth functions for forest development models - final outcomes of the Swiss-SpeMixMod project
-summary: Talk
+title: Individual tree growth complementarity in Swiss forests varies with mixture types, climate and stand conditions
+summary: Invited Talk
 
 all_day: false
 authors: []
-date: "2017-11-15T13:00:00Z"
-date_end: "2017-11-15T16:00:00Z"
-event: Mixed Forests Workshop
+date: "2017-01-20T10:00:00Z"
+date_end: "2017-01-20T12:00:00Z"
+event: Project Meeting at INIA Madrid
 event_url: ''
 featured: false
 image:
@@ -18,7 +18,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Birmensdorf, Switzerland
+location: Madrid, Spain
 
 math: true
 publishDate: ""

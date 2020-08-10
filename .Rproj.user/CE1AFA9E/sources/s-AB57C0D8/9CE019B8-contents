@@ -1,13 +1,13 @@
 ---
-title: Species mixing in growth functions for forest development models - final outcomes of the Swiss-SpeMixMod project
+title: The Swiss-SpeMixMod project - studying mixing effects using forest inventory data
 summary: Talk
 
 all_day: false
 authors: []
-date: "2017-11-15T13:00:00Z"
-date_end: "2017-11-15T16:00:00Z"
-event: Mixed Forests Workshop
-event_url: ''
+date: "2017-06-26T11:00:00Z"
+date_end: "2017-06-26T12:00:00Z"
+event: FOREMA Quarterly Colloquia
+event_url: 'https://www.wsl.ch/en/about-wsl/research-units/forest-resources-and-management/forema-quarterly-colloquia.html'
 featured: false
 image:
   focal_point: ""
