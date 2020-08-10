@@ -18,7 +18,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Minal, Italy
+location: Milan, Italy
 
 math: true
 publishDate: ""

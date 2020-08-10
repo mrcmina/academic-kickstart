@@ -1,13 +1,13 @@
 ---
-title: Managing forest landscapes as functional complex networks to increase resilience - a simulation study
+title: Coupling tree-community and landscape models with functional diversity and network theories for resilience-based forest management
 summary: Conference 
 
 all_day: false
 authors: []
 date: "2020-07-01T09:00:00Z"
 date_end: "2020-07-05T18:00:00Z"
-event: 10th IALE World Congress
-event_url: 'https://iale2019.unimib.it/'
+event: Ecological Society of America (ESA) Annual Meeting 2018
+event_url: 'https://esa.org/neworleans/'
 featured: false
 image:
   focal_point: ""
@@ -18,7 +18,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Minal, Italy
+location: New Orleans, USA
 
 math: true
 publishDate: ""

@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3176204209",
+    "hash" : "2359326568",
     "id" : "BB941786",
-    "lastKnownWriteTime" : 1597028024,
-    "last_content_update" : 1597028024094,
+    "lastKnownWriteTime" : 1597028352,
+    "last_content_update" : 1597028352442,
     "path" : "C:/Github/academic-kickstart/content/talk/iale_2019/index.md",
     "project_path" : "content/talk/iale_2019/index.md",
     "properties" : {
-        "cursorPosition" : "29,12",
-        "scrollLine" : "5"
+        "cursorPosition" : "20,15",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
