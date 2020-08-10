@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1597071196781.000,
+    "created" : 1597071533694.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4236292681",
-    "id" : "A5E8010D",
-    "lastKnownWriteTime" : 1597071283,
-    "last_content_update" : 1597071283079,
+    "hash" : "1086300588",
+    "id" : "10F7A8DF",
+    "lastKnownWriteTime" : 1597071556,
+    "last_content_update" : 1597071556403,
     "path" : "C:/Github/academic-kickstart/content/post/fm_00/index.md",
     "project_path" : "content/post/fm_00/index.md",
     "properties" : {
-        "cursorPosition" : "14,114",
+        "cursorPosition" : "7,25",
         "scrollLine" : "0"
     },
-    "relative_order" : 6,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
