@@ -4,8 +4,8 @@ summary: Conference
 
 all_day: false
 authors: []
-date: "2020-07-01T09:00:00Z"
-date_end: "2020-07-05T18:00:00Z"
+date: "2019-07-01T09:00:00Z"
+date_end: "2019-07-05T18:00:00Z"
 event: 10th IALE World Congress
 event_url: 'https://iale2019.unimib.it/'
 featured: false

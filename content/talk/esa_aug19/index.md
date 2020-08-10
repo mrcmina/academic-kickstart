@@ -4,8 +4,8 @@ summary: Conference
 
 all_day: false
 authors: []
-date: "2020-07-01T09:00:00Z"
-date_end: "2020-07-05T18:00:00Z"
+date: "2018-08-03T09:00:00Z"
+date_end: "2018-08-08T18:00:00Z"
 event: Ecological Society of America (ESA) Annual Meeting 2018
 event_url: 'https://esa.org/neworleans/'
 featured: false
