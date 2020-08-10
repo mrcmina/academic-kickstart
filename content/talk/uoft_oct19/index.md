@@ -1,13 +1,13 @@
 ---
-title: Forest landscapes as functional complex networks - a new approach to increase multi-scale resilience to global change 
-summary: Invited Seminar
+title: add-title
+summary: Conference-Invited seminar-Talk 
 
 all_day: false
 authors: []
-date: "2020-02-28T11:00:00Z"
-date_end: "2020-02-28T12:00:00Z"
-event: WSL Colloquia
-event_url: ''
+date: "20XX-MM-DDT00:00:00Z"
+date_end: "20XX-MM-DDT00:00:00Z"
+event: title_of_the_event
+event_url: 'https://link'
 featured: false
 image:
   focal_point: ""
@@ -18,7 +18,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Birmensdorf, Switzerland
+location: City, Country
 
 math: true
 publishDate: ""

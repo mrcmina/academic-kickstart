@@ -6,7 +6,7 @@ summary: Invited Guest Lecturer
 all_day: false
 authors: []
 date: "2019-11-18T10:00:00Z"
-#date_end: "20XX-MM-DDT00:00:00Z"
+date_end: "20XX-MM-DDT00:00:00Z"
 event: title_of_the_event
 event_url: ''
 featured: false
