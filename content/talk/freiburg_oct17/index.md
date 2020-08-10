@@ -29,7 +29,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 url_dataset: ''
-url_poster: 'freiburg_oct17/poster.pdf'
+url_poster: '/talk/freiburg_oct17/poster.pdf'
 url_project: ''
 url_source: ''
 
