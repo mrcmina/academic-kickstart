@@ -7,7 +7,7 @@ authors: []
 date: "2019-12-13T11:00:00Z"
 date_end: "2019-12-13T12:00:00Z"
 event: Harvard Forest Seminars
-event_url: ''
+event_url: 'https://harvardforest.fas.harvard.edu/'
 featured: false
 image:
   focal_point: ""
@@ -18,7 +18,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: [Harvard Forest](https://harvardforest.fas.harvard.edu/), Petersham, MA (USA)
+location: Harvard Forest, Petersham, MA (USA)
 
 math: true
 publishDate: "2017-01-01T00:00:00Z"
