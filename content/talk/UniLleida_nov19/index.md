@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Université du Quebéc à Montreal UQAM and UQO, Canada
+location: University of Lleida, Spain [in videoconference]
 
 math: true
 publishDate: ""
