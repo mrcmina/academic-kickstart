@@ -1,13 +1,13 @@
 ---
-title: Modelling forest dynamics - From stand to landscape
+title: Forest dynamics, management and ecosystem services in European forests
 
-summary: Invited guest lecture
+summary: Invited Seminar
 
 all_day: false
 authors: []
-date: "2019-11-18T10:00:00Z"
-date_end: "2019-11-18T11:00:00Z"
-event: Invited guest lecturer for MSc course *European Forestry*
+date: "2019-09-26T10:00:00Z"
+date_end: "2019-09-26T12:00:00Z"
+event: Invited guest lecturer at MSc course *Sustainable Management of Forest Ecosystems*
 event_url: ''
 featured: false
 image:
@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: University of Lleida, Spain [in videoconference]
+location: UQAM and UQO, Montreal, Canada
 
 math: true
 publishDate: ""

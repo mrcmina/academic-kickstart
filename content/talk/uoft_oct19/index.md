@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2019-10-18T11:00:00Z"
 date_end: "2019-10-18T12:00:00Z"
-event: title_of_the_event
+event: Invited talk at the Fortin's Lab
 event_url: ''
 featured: false
 image:

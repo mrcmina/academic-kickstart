@@ -1,12 +1,12 @@
 ---
 title: Forest Planning 2.0. Foreseeing forest futures to aid management decisions
-summary: Invited seminar 
+summary: Invited Seminar 
 
 all_day: false
 authors: []
 date: "2019-12-13T11:00:00Z"
 date_end: "2019-12-13T12:00:00Z"
-event: Harvard Forest Seminars
+event: [Harvard Forest](https://harvardforest.fas.harvard.edu/) Seminars
 event_url: ''
 featured: false
 image:

@@ -5,8 +5,8 @@ summary: Invited guest lecture
 
 all_day: false
 authors: []
-date: "2019-11-18T10:00:00Z"
-date_end: "2019-11-18T11:00:00Z"
+date: "2019-12-13T10:00:00Z"
+date_end: "2019-12-13T12:00:00Z"
 event: Invited guest lecturer for MSc course *European Forestry*
 event_url: ''
 featured: false
