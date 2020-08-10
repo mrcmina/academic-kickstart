@@ -25,7 +25,7 @@ publishDate: ""
 slides: 
 tags: []
 url_code: ""
-url_pdf: "/talk/prague_oct16/abstracts.pdf""
+url_pdf: "/talk/prague_oct16/abstracts.pdf"
 url_slides: ""
 url_video: ""
 url_dataset: ''
