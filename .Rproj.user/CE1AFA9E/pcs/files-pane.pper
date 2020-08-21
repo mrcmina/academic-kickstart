@@ -1,8 +1,8 @@
 {
-    "path" : "C:/Github/academic-kickstart/config/_default",
+    "path" : "C:/Github/academic-kickstart/content/post/efi_1",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         },
         {
