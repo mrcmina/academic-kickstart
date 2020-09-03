@@ -25,8 +25,8 @@ abstract: Forests are projected to undergo dramatic compositional and structural
 
 
 # links:
-# - name: ""
-#   url: ""
+- name: "Press release"
+  url: "https://www.esa.org/blog/2020/09/02/the-need-for-smarter-management-for-more-resilient-forests/"
 url_pdf: "publication/mina_et-al_2020_ecolapp/mina_2020_ecolapp.pdf"
 url_code: ''
 url_dataset: "https://doi.org/10.5281/zenodo.3823195"
