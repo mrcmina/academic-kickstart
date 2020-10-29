@@ -66,6 +66,6 @@ The project has been financed in 2018-2019 via a career funding scheme awarded t
 
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2020). [*Network analysis can guide resilience-based management in forest landscapes under global change*]({{< ref "/publication/mina_et-al_2020_ecolapp/index.md" >}}). Ecological Applications. 00(00):e02221. 
 
-Aquilué N, Messier C, Martins KT, Dumais-Lalonde V, **Mina M** (2021). *A simple-to-use management approach to boost forests adaptive capacity to global uncertainty*. Forest Ecology and Management. 481(118692). 
+Aquilué N, Messier C, Martins KT, Dumais-Lalonde V, **Mina M** (2021). [*A simple-to-use management approach to boost forests adaptive capacity to global uncertainty*]({{< ref "/publication/aquilue_et-al_2021_foreco/index.md" >}}). Forest Ecology and Management. 481(118692). 
 
 Messier C, Bauhus J, Doyon F, Maure F, Sousa-Silva R, Nolet P, **Mina M**, Aquilué N, Fortin MJ and Puettmann K (2019). [*The functional complex network approach to foster forest resilience to global changes*]({{< ref "/publication/messier_et-al_2019_ForEcosy/index.md" >}}). Forest Ecosystems 6:21. Summarized in the [EFI Resilience Blog](https://resilience-blog.com/2019/04/11/managing-forests-functional-complex-networks/)
