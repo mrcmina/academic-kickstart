@@ -1,5 +1,5 @@
 ---
-title: Forest landscapes as functional networks: Novel approaches to manage for resilience
+title: Forest landscapes as functional networks - Novel approaches to manage for resilience
 date: 2020-12-01
 math: true
 diagram: true
