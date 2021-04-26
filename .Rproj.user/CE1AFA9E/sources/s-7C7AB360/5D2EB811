@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2658464186",
+    "hash" : "1421350937",
     "id" : "5D2EB811",
-    "lastKnownWriteTime" : 1619404578,
-    "last_content_update" : 1619404578,
+    "lastKnownWriteTime" : 1619405240,
+    "last_content_update" : 1619405240074,
     "path" : "C:/Github/academic-kickstart/content/publication/irauschek_et-al_2021_ecolmod/index.md",
     "project_path" : "content/publication/irauschek_et-al_2021_ecolmod/index.md",
     "properties" : {
+        "cursorPosition" : "13,14",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,

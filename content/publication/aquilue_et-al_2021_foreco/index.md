@@ -15,7 +15,7 @@ doi: "https://doi.org/10.1016/j.foreco.2020.118692"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Forest Ecology and Management* 481(118692)"
