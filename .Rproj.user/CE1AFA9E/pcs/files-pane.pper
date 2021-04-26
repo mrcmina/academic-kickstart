@@ -1,8 +1,16 @@
 {
-    "path" : "C:/Github/academic-kickstart/content/project/REDEFiNE",
+    "path" : "C:/Github/academic-kickstart/content/post/efi_2",
     "sortOrder" : [
         {
             "ascending" : true,
+            "columnIndex" : 1
+        },
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : false,
             "columnIndex" : 2
         },
         {
