@@ -32,7 +32,7 @@ abstract: Forest ecosystem models, being widespread science tools and used for f
 links:
 #- name: "Blog post"
 #  url: "https:addlink"
-# url_pdf: "add link"
+url_pdf: "publication/irauschek_et-al_2021_ecolmod/irauschek_2021.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
