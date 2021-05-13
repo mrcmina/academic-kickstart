@@ -1,6 +1,6 @@
 ---
 title: REINFORCE
-summary: Increasing forest resilience to global changes
+summary: Resilient Alpine forest landscapes to global changes
 tags:
 - Forest Resilience, Alps, Ecosystem services, Dynamic landscape modelling
 date: "2021-05-01T00:00:00Z"
@@ -42,6 +42,7 @@ slides: example
 **REINFORCE: INtegrated landscape management for REsilient mountain FORests under global changes**
 
 Forests are key components of modern landscapes, providing essential **ecosystem services** to humans and sustaining biodiversity. As they mitigate global warming, forest ecosystems are essential elements for meeting the objectives of the Paris Climate Agreement and an increase of their future resilience through sustainable management practices is one of the main priorities of the EU policy. Forests are projected to undergo dramatic compositional and structural shifts prompted by global changes, such as intensifying natural disturbance regimes, land use and climate change. This uncertainty makes planning for forest management exceptionally difficult. To date, studies have mainly focused on adapting forest management to climate warming but new interdisciplinary approaches for understanding and implementing **tailored adaptation actions** are needed to increase forest resilience to a large set of uncertainties. 
+
 The overall aim of **REINFORCE** is to develop multi-scale and integrated forest management strategies to enhance resilience to global changes in European mountain forest landscapes. The project will consist in assessing future forest landscape dynamics in multiple case study regions in the Alps using advanced simulation modelling tools, followed by developing resilience-based forest management plans. This will be accomplished with a novel and innovative approach combining dynamic *landscape modelling*, *functional diversity* and *network analysis*. This approach allows to determine where to intervene more efficiently in stands within the landscape to maximize the resilience of the forests to sudden disturbances and climate change. Mixing multiple expertise and methods, REINFORCE will ultimately contribute in filling the gap between science and local decision-makers by incorporating stakeholder community in building effective and integrated forested landscape management to cope with climate and global changes.
 
 
@@ -62,7 +63,7 @@ The project is financed via H2020 Marie-Curie Fellowship awarded to Marco Mina (
 
 ## Open Positions 
 
-We will soon announce an open PhD position jointly between Eurac and the Free University of Bolzano/Bozen in the context of the project. **Stay tuned!**
+We will soon announce an open PhD position jointly between Eurac and the [Free University of Bolzano/Bozen](https://www.unibz.it/en/faculties/sciencetechnology/phd-mountain-environment-agriculture/) in the context of the project. **Stay tuned!**
 
 ## Key publications
 
