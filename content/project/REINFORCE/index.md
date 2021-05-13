@@ -35,7 +35,7 @@ slides: example
 ---
 
 ## Project duration
-2021 - ongoing
+June 2021 - 
 
 
 ## Project overview
