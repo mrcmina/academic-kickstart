@@ -9,7 +9,7 @@ image:
   caption: ""
 ---
 
-Modelling the dynamics of Mediterranean forests at large scales is a challenge. Landscape simulation models can  help us better understand future directions of these ecosystems and how to better manage them. In this post written with PhD candiate **Maria Suarez-Muñoz** from the University of Granada, we summarize the results of our paper published in *Frontiers in Ecology and Evolution* where we set up a ecophysiologically-based forest landscape model in a region in the Sierra Nevada mountains, southern Spain.
+Modelling the dynamics of Mediterranean forests at large scales is a challenge. Landscape simulation models can  help us better understand future directions of these ecosystems and how to better manage them. In this post written with PhD candidate **Maria Suarez-Muñoz** from the University of Granada, we summarize the results of our paper published in the journal *Frontiers in Ecology and Evolution* where we set up a ecophysiologically-based forest landscape model in a region in the Sierra Nevada mountains, southern Spain.
 
 The post is published in the website [Forest Monitor](http://www.forest-monitor.com/en/) 
 
