@@ -64,9 +64,9 @@ The project is financed via **H2020 Marie-Curie Fellowship** awarded to Marco Mi
 
 ## Open Positions 
 
-We are looking for a PhD student to join our group at the [Institute of Alpine Environment](https://www.eurac.edu/en/research/mountains/alpenv/Pages/default.aspx) at [Eurac Research](https://www.eurac.edu/). The candidate would be enrolled at the [PhD Programme Mountain Environment and Agriculture](https://www.unibz.it/en/faculties/sciencetechnology/phd-mountain-environment-agriculture/) at the [Free University of Bolzano/Bozen](https://www.unibz.it/). The student will be embedded in REINFORCE with the possibility to cooperate with several research institutions across Europe. 
+We are looking for a **PhD student** to join our group at the [**Institute of Alpine Environment**](https://www.eurac.edu/en/research/mountains/alpenv/Pages/default.aspx) at [Eurac Research](https://www.eurac.edu/). The candidate would be enrolled at the [PhD Programme Mountain Environment and Agriculture](https://www.unibz.it/en/faculties/sciencetechnology/phd-mountain-environment-agriculture/) at the [**Free University of Bolzano/Bozen**](https://www.unibz.it/). The student will be embedded in REINFORCE with the possibility to cooperate with several research institutions across Europe. 
 
-For additional information, requirements and how to apply see the [announcement in the Eurac website](https://www.eurac.edu/en/aboutus/Jobs/Pages/PhD-student-in-Modelling,-management,-and-resilience-of-future-Alpine-forest-landscapes19052021.aspx). Please feel free to [contact me](https://www.marco-mina.com/#contact) for additional information and inquires. 
+For additional information, requirements and how to apply see the [announcement in the Eurac website](https://www.eurac.edu/en/aboutus/Jobs/Pages/PhD-student-in-Modelling,-management,-and-resilience-of-future-Alpine-forest-landscapes19052021.aspx). Please feel free to [contact me](https://www.marco-mina.com/#contact) for additional information or inquires. 
 
 ![](/img/southtyrol.png)
 *A landscape in the Dolomites of South Tyrol, Italy*
