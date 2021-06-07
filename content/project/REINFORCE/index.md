@@ -60,7 +60,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
 
 ## Partners and collaborators
 
- - *Marco Mina* _Eurac Research, Italy_
+ - **Marco Mina** _Eurac Research, Italy_
  - [**Erich Tasser**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=38) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=19963) _Eurac Research, Italy_
  - [**Giustino Tonon**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/21255-giustino-tonon) _Free University of Bolzano/Bozen, Italy_
