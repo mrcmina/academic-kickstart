@@ -35,7 +35,7 @@ slides: example
 ---
 
 ## Project duration
-June 2021 - 
+2021 - ongoing
 
 
 ## Project overview
@@ -54,16 +54,16 @@ The project follows three main research steps:
 
 ## Funding
 
-The project is financed from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the **Marie Skłodowska-Curie** [grant agreement No 891671](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. 
+The project is financed from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the [**Marie Skłodowska-Curie grant agreement No 891671**](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. 
 
 ![](/img/reinforce_funding.png)
 
 ## Partners and collaborators
 
- - [**Marco Mina**](https://www-marco-mina.com) *Eurac Research, Italy*
- - [**Erich Tasser**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=38) *Eurac Research, Italy and University of Innsbruck, Austria* 
- - [**Nikolaus Obojes**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=19963) *Eurac Research, Italy*
- - [**Giustino Tonon**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/21255-giustino-tonon) *Free University of Bolzano/Bozen, Italy*
+ - *Marco Mina* _Eurac Research, Italy_
+ - [**Erich Tasser**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=38) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
+ - [**Nikolaus Obojes**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=19963) _Eurac Research, Italy_
+ - [**Giustino Tonon**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/21255-giustino-tonon) _Free University of Bolzano/Bozen, Italy_
 
 
 ## Open Positions 
