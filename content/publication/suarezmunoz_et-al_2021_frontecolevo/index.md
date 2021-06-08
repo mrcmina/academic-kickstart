@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide to Initialize and Calibrate Landscape Models - A Case Study in the Mediterranean Mountains"
 authors:
-- Suárez-Muñoz M. M Mina, PC Salazar, RM Navarro-Cerrillo
+- Suárez-Muñoz M.
 - Mina M.
 - Salazar P.C.
 - Navarro-Cerrillo R.M.
