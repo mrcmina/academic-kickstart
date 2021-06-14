@@ -18,12 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research fellow "
+  company = "Eurac Research"
+  company_url = "https://www.eurac.edu/en/pages/default.aspx"
+  location = "Bolzano/Bozen, Italy"
+  date_start = "2021-06-14"
+  date_end = ""
+  description = """Figuring out how to better manage Alpine forest landscapes under global environmental changes"""
+  # Responsibilities include:
+  # 
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
+
+[[experience]]
   title = "Postdoctoral research fellow"
   company = "Université du Quebéc à Montréal UQAM"
   company_url = "https://uqam.ca/"
   location = "Montreal, Canada"
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "2021-05-31"
   description = """Figuring out how to make fragmented forest landscapes more resilient to global change"""
   # Responsibilities include:
   # 
