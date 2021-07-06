@@ -61,16 +61,10 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
 ## Partners and collaborators
 
  - **Marco Mina** _Eurac Research, Italy_
- - [**Erich Tasser**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=38) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
- - [**Nikolaus Obojes**](https://www.eurac.edu/en/research/mountains/alpenv/staff/Pages/staffdetails.aspx?persId=19963) _Eurac Research, Italy_
+ - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
+ - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research, Italy_
  - [**Giustino Tonon**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/21255-giustino-tonon) _Free University of Bolzano/Bozen, Italy_
 
-
-## Open Positions 
-
-We are looking for a **PhD student** to join our group at the [**Institute of Alpine Environment**](https://www.eurac.edu/en/research/mountains/alpenv/Pages/default.aspx) at [Eurac Research](https://www.eurac.edu/). The candidate would be enrolled at the [PhD Programme Mountain Environment and Agriculture](https://www.unibz.it/en/faculties/sciencetechnology/phd-mountain-environment-agriculture/) at the [**Free University of Bolzano/Bozen**](https://www.unibz.it/). The student will be embedded in REINFORCE with the possibility to cooperate with several research institutions across Europe. 
-
-For additional information, requirements and how to apply see the [announcement in the Eurac website](https://www.eurac.edu/en/aboutus/Jobs/Pages/PhD-student-in-Modelling,-management,-and-resilience-of-future-Alpine-forest-landscapes19052021.aspx). Please feel free to [contact me](https://www.marco-mina.com/#contact) for additional information or inquires. 
 
 ![](/img/southtyrol.png)
 *A landscape in the Dolomites of South Tyrol, Italy*
