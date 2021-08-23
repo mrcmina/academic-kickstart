@@ -63,6 +63,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_
  - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research, Italy_
+ - [**Ruth Sonnenschein**](https://www.eurac.edu/en/people/ruth-sonnenschein) _Eurac Research, Italy_
  - [**Katharina Albrich**](https://www.edfm.wzw.tum.de/team/albrich.html) _Technische Universität München, Germany & Luke, Finland_
   - [**Camilla Wellstein**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/33786-camilla-wellstein) _Free University of Bolzano/Bozen_
   
