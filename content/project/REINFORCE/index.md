@@ -60,11 +60,15 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
 
 ## Partners and collaborators
 
- - **Marco Mina** _Eurac Research, Italy_
+ - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_
  - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research, Italy_
- - [**Giustino Tonon**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/21255-giustino-tonon) _Free University of Bolzano/Bozen, Italy_
+ - [**Katharina Albrich**](https://www.edfm.wzw.tum.de/team/albrich.html) _Technische Universität München, Germany & Luke, Finland_
+  - [**Camilla Wellstein**](https://www.unibz.it/it/faculties/sciencetechnology/academic-staff/person/33786-camilla-wellstein) _Free University of Bolzano/Bozen_
+  
+Also in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
 
+[**In memoria di Giustino Tonon †**](https://sisef.org/2021/07/08/in-memoria-di-giustino-tonon/)
 
 ![](/img/southtyrol.png)
 *A landscape in the Dolomites of South Tyrol, Italy*
