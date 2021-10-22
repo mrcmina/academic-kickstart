@@ -44,7 +44,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:mina.marco@courrier.uqam.ca".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ForesThink
+  link: https://twitter.com/marco_mina_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XRJCBLgAAAAJ&hl=en
