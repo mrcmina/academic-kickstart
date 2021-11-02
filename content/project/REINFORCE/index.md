@@ -75,6 +75,7 @@ Also in cooperation with the [**Forest Planning Office**](https://www.provincia.
 
 <!---   ![](/img/southtyrol.png)  -->
 
+-----------------------------
 *Impressions from summer 2021*
 
 {{< gallery album="reinforce-album" >}}
