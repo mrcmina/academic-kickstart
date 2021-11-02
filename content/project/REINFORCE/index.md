@@ -76,4 +76,4 @@ Also in cooperation with the [**Forest Planning Office**](https://www.provincia.
 ![](/img/southtyrol.png)
 *A landscape in the Dolomites of South Tyrol, Italy*
 
-{{< gallery album="<album_pics>" >}}
+{{< gallery album="<album>" >}}
