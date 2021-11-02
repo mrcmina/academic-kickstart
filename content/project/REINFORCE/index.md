@@ -73,7 +73,8 @@ Also in cooperation with the [**Forest Planning Office**](https://www.provincia.
 
 [**In memoria di Giustino Tonon †**](https://sisef.org/2021/07/08/in-memoria-di-giustino-tonon/)
 
-![](/img/southtyrol.png)
-*A landscape in the Dolomites of South Tyrol, Italy*
+<!---   ![](/img/southtyrol.png)  -->
+
+*Impressions from summer 2021*
 
 {{< gallery album="reinforce-album" >}}
