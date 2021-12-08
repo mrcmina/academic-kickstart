@@ -2,7 +2,11 @@
 title: REDEFiNE
 summary: Resilience-based forest management with network theory
 tags:
-- Forest Resilience, Network analysis, Functional traits, Dynamic modelling
+- Forest Resilience
+- Landscape modelling
+- Network analysis
+- Functional traits
+- North American forests
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

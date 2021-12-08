@@ -2,7 +2,10 @@
 title: ARANGE
 summary: Advanced multifunctional management of European mountain forests
 tags : 
-- Adaptive Management
+- Forest Management
+- Stand modelling
+- Climate change
+- European forests
 date: "2015-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
