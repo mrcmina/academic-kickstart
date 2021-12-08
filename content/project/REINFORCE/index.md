@@ -1,36 +1,17 @@
 ---
-title: REINFORCE
+title: "REINFORCE"
 summary: Resilient Alpine forest landscapes to global changes
-tags:
-- Forest Resilience, Alps, Ecosystem services, Dynamic landscape modelling
-date: "2021-05-01T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
+date: '2021-05-01T00:00:00Z'
+tags: Forest Resilience, Alps, Ecosystem services, Dynamic landscape modelling
+external_link: ''
 image:
-  caption:
+  caption: null
   focal_point: Smart
-
-links:
-# - icon_pack: fab
-#   icon: wordpress
-#   name: 
-#   url: 'https://medium.com'
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+links: null
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 slides: example
 ---
 
@@ -58,14 +39,17 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
 
 ![](/img/reinforce_funding.png)
 
-## Partners and collaborators
+-----------------------------
 
- - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_
- - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research, Italy_ and _University of Innsbruck, Austria_ 
- - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research, Italy_
- - [**Katharina Albrich**](https://www.edfm.wzw.tum.de/team/albrich.html) _TUM, Germany & Luke, Finland_
- - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research, Italy_
- - [**Ruth Sonnenschein**](https://www.eurac.edu/en/people/ruth-sonnenschein) _Eurac Research, Italy_
+## Project team and collaborators
+
+ - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_ ***Project manager***
+ - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_ and _University of Innsbruck, Austria_ ***Vice project manager***
+ - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_
+ - [**Katharina Albrich**](https://www.edfm.wzw.tum.de/team/albrich.html) _Natural Resource Institute Finland (Luke)_
+ - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
+ - [**Ruth Sonnenschein**](https://www.eurac.edu/en/people/ruth-sonnenschein) _Eurac Research_
 
 
   
