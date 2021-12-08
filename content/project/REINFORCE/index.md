@@ -2,7 +2,11 @@
 title: "REINFORCE"
 summary: Resilient Alpine forest landscapes to global changes
 date: '2021-05-01T00:00:00Z'
-tags: Forest Resilience, Alps, Ecosystem services, Dynamic landscape modelling
+tags: 
+- Forest Resilience
+- Alps
+- Ecosystem services
+- Landscape modelling
 external_link: ''
 image:
   caption: null
@@ -47,7 +51,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_ and _University of Innsbruck, Austria_ ***Vice project manager***
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_
- - [**Katharina Albrich**](https://www.edfm.wzw.tum.de/team/albrich.html) _Natural Resource Institute Finland (Luke)_
+ - [**Katharina Albrich**](https://www.luke.fi/en/henkilosto/katharina-albrich/) _Natural Resource Institute Finland (Luke)_
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  - [**Ruth Sonnenschein**](https://www.eurac.edu/en/people/ruth-sonnenschein) _Eurac Research_
 
