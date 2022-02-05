@@ -1,5 +1,5 @@
 ---
-title: Dopo la tempesta Vaia: la resilienza del bosco in Trentino-Alto Adige
+title: Dopo la tempesta Vaia - la resilienza del bosco in Trentino-Alto Adige
 date: 2022-02-03
 math: true
 diagram: true
