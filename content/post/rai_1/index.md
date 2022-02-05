@@ -1,6 +1,6 @@
 ---
 title: Una nuova ricerca di Eurac studia il futuro delle foreste
-date: 2021-11-22
+date: 2021-11-23
 math: true
 diagram: true
 reading_time: false  
