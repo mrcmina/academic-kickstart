@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Blog Posts"
+title = "Blog Posts and Media"
 subtitle = "I occasionally publish posts in [Forest Monitor](http://www.forest-monitor.com/en/) and in the [EFI Resilience Blog](https://resilience-blog.com/)"
 
 [content]
