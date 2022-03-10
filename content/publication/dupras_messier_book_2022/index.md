@@ -20,7 +20,7 @@ featured: false
 publication: "*Une économie écologique pour le Québec - Comment opérationnaliser une nécessaire transition* eds. Zaga Mendez A., Bissonette J.F., Dupras J. - 384 pgg."
 publication_short: ""
 
-abstract: 
+abstract: Book chapter in which I contributed in the book *Une économie écologique pour le Québec - Comment opérationnaliser une nécessaire transition* edited by Zaga Mendez A., Bissonette J.F., Dupras J.
 
 
 links:
