@@ -6,7 +6,7 @@ authors:
 - Mina M.
 - Aquilué N.
 date: "2022-03-01T00:00:00Z"
-doi: "https://www.puq.ca/catalogue/livres/une-economie-ecologique-pour-quebec-3828.html"
+doi: ""
 
 
 # Publication type.
@@ -32,7 +32,7 @@ url_dataset: ''
 url_poster: ''
 url_project: '/project/redefine/'
 url_slides: ''
-url_source: ''
+url_source: 'https://www.puq.ca/catalogue/livres/une-economie-ecologique-pour-quebec-3828.html'
 url_video: ''
 
 ---
