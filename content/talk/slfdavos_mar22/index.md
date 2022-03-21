@@ -5,8 +5,8 @@ summary: Invited seminar
 
 all_day: false
 authors: []
-date: "2021-03-21T9:00:00Z"
-date_end: "2021-03-21T10:00:00Z"
+date: "2022-03-21T9:00:00Z"
+date_end: "2022-03-21T10:00:00Z"
 event: Invited seminar for Mountain Ecosystem Research Group, SLF Davos
 event_url: ''
 featured: false
