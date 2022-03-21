@@ -64,7 +64,7 @@ Also in cooperation with the [**Forest Planning Office**](https://www.provincia.
 
 <!---   ![](/img/southtyrol.png)  -->
 
-{{< https://youtu.be/RjohXFKxVbI >}}
+{{< youtube RjohXFKxVbI >}}
 
 -----------------------------
 *Impressions from summer 2021*
