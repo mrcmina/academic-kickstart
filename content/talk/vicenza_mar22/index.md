@@ -1,5 +1,5 @@
 ---
-title: Boschi d'Italia (e non solo) - Aspetti, Gestione e Futuro   
+title: Boschi d'Italia e non solo - Aspetti, Gestione e Futuro   
 
 summary: Public Outreach  
 
