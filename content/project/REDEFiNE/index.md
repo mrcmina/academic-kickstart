@@ -68,6 +68,8 @@ The project has been financed in 2018-2019 via a career funding scheme awarded t
 
 ## Key publications
 
+**Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. (00), 1-19. 
+
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2021). [*Network analysis can guide resilience-based management in forest landscapes under global change*]({{< ref "/publication/mina_et-al_2020_ecolapp/index.md" >}}). Ecological Applications. 31(1):e02221. 
 
 Aquilué N, Messier C, Martins KT, Dumais-Lalonde V, **Mina M** (2021). [*A simple-to-use management approach to boost forests adaptive capacity to global uncertainty*]({{< ref "/publication/aquilue_et-al_2021_foreco/index.md" >}}). Forest Ecology and Management. 481(118692). 
