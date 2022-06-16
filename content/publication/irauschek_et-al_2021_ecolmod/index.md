@@ -32,7 +32,7 @@ abstract: Forest ecosystem models, being widespread science tools and used for f
 links:
 url_pdf: "publication/irauschek_et-al_2021_ecolmod/irauschek_2021.pdf"
 - name: "Corrigendum"
-  url: "publication/irauschek_et-al_2021_ecolmod/irauschek_2021_corrigendum.pdf"
+  url: "https://www.sciencedirect.com/science/article/pii/S0304380022001235?via%3Dihub"
 url_code: ''
 url_dataset: ''
 url_poster: ''
