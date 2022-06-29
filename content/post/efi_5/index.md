@@ -1,6 +1,6 @@
 ---
-title: Forest landscapes as functional networks - Novel approaches to manage for resilience
-date: 2020-12-01
+title: Expecting the unexpected - How to manage forest landscapes in a highly uncertain future?
+date: 2022-06-22
 math: true
 diagram: true
 reading_time: false  
@@ -9,9 +9,9 @@ image:
   caption: ""
 ---
 
-Viewing and analyzing forest landscapes as functional complex networks could be a promising approach to increase ecological resilience to global uncertainty. Now, two new studies show how this could be applied in differently structured landscapes.
+Forest landscapes can be managed as interconnected and functional complex networks via network analysis combined with modelling and strategic forest planning. But is the so-called functional network approach really an efficient way to optimize forest landscape management and to promote ecological resilience in the face of unexpected global change stresses?
 
 The post is published in the website [EFI Resilience Blog](https://resilience-blog.com/) 
 
-Here's [the link to the post](https://resilience-blog.com/2020/12/01/forest-landscapes-as-functional-networks-novel-approaches-to-manage-for-resilience/)
+Here's [the link to the post](https://resilience-blog.com/2022/06/29/expecting-the-unexpected-managing-forest-landscapes-as-functional-network/)
 
