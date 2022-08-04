@@ -44,8 +44,11 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 ## Project team and collaborators
 
  - [**Chiara Paniccia**](https://www.eurac.edu/it/people/chiara-paniccia) _Eurac Research_
- - [**Andreas Hilpolt**](https://www.eurac.edu/it/people/andreas-hilpold) _Eurac Research_
+ - [**Andreas Hilpold**](https://www.eurac.edu/it/people/andreas-hilpold) _Eurac Research_
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
+
+## Students
+- [**Francesca Rigo**](https://www.eurac.edu/it/people/francesca-rigo) _Eurac Research_ / _Wageningen University_ - MSc student (Topic: _Effect of forest structure and managemen on multi-taxon forest biodiversity_)
 
 ## Interns and field assistants
 

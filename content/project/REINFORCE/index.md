@@ -51,10 +51,12 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_ ***Project manager***
  - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_, _Innsbruck University, Austria_ ***Vice project manager***
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
- - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_
  - [**Katharina Albrich**](https://www.luke.fi/en/henkilosto/katharina-albrich/) _Natural Resource Institute Finland (Luke)_
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
- - [**Ruth Sonnenschein**](https://www.eurac.edu/en/people/ruth-sonnenschein) _Eurac Research_
+ 
+## Students
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ , _University of Bolzano_ - PhD student (Topic: _Forest landscape modelling and adaptive forest management_)
+ - [**Laurin Hillebrand**](https://www.eurac.edu/it/people/laurin-hillebrand) _Eurac Research_ - MSc student (Topic: _Forest stand modelling on protection forests_)
 
 
   
