@@ -1,5 +1,5 @@
 ---
-title: Managing forests as functional networks: preparing our landscapes for the unexpected
+title: Managing forests as functional networks - preparing our landscapes for the unexpected
 summary: Symposium
 
 all_day: false
