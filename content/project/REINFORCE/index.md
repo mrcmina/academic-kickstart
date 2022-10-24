@@ -27,15 +27,28 @@ slides: example
 ## Project overview
 **REINFORCE: INtegrated landscape management for REsilient mountain FORests under global changes**
 
-Forests are key components of modern landscapes, providing essential **ecosystem services** to humans and sustaining biodiversity. As they mitigate global warming, forest ecosystems are essential elements for meeting the objectives of the Paris Climate Agreement and an increase of their future resilience through sustainable management practices is one of the main priorities of the EU policy. Forests are projected to undergo dramatic compositional and structural shifts prompted by global changes, such as intensifying natural disturbance regimes, land use and climate change. This uncertainty makes planning for forest management exceptionally difficult. To date, studies have mainly focused on adapting forest management to climate warming but new interdisciplinary approaches for understanding and implementing **tailored adaptation actions** are needed to increase forest resilience to a large set of uncertainties. 
+Forests are key components of modern landscapes, providing essential **ecosystem services** to humans and sustaining biodiversity. Assuring future forest resilience through sustainable management practices is one of the main priorities of the EU policy. However, forests are projected to undergo dramatic compositional and structural shifts prompted by global changes, such as intensifying natural disturbance regimes, land use and climate change, making planning for forest management exceptionally difficult. Nowadays, new interdisciplinary approaches are needed for understanding and implementing **tailored adaptation actions** to increase forest resilience to a large set of uncertainties. 
 
-The overall aim of **REINFORCE** is to develop multi-scale and **integrated forest management strategies** to enhance resilience to global changes in European mountain forest landscapes. The project will consist in assessing future forest landscape dynamics in multiple case study regions in the Alps using advanced simulation modelling tools, followed by developing resilience-based forest management plans. This will be accomplished with a novel and innovative approach combining dynamic *landscape modelling*, *functional diversity* and *network analysis*. This approach allows to determine where to intervene more efficiently in stands within the landscape to maximize the resilience of the forests to sudden disturbances and climate change. Mixing multiple expertise and methods, REINFORCE will ultimately contribute in filling the gap between science and local decision-makers by incorporating stakeholder community in building effective and integrated forested landscape management to cope with climate and global changes.
-
+The overall aim of **REINFORCE** is to study multi-scale and **integrated forest management strategies** to enhance resilience to global changes in European mountain forest landscapes. The project aims at assessing future forest landscape dynamics in multiple case study regions in the Alps using advanced simulation modelling tools. Evaluation of resilience-based forest management adaptations follows an innovative approach combining dynamic *landscape modelling* with the principles of *functional diversity* and *network analysis*. This would allow to determine where to intervene more efficiently within forested landscapes so to maximize their resilience to sudden disturbances and climate change. Mixing multiple expertise and methods, REINFORCE also aims at filling the gap between science and local decision-makers by incorporating stakeholder community in building effective and integrated forested landscape management to cope with climate and global changes.
 
 The project follows three main research steps:
- 1. **Assessing**: evaluate future forest landscapes scenarios under uncertain global changes. This objective will be tackled using models of forest landscape dynamics in three case study regions in the Alps.
- 2. **Planning**: develop novel forest management plans to foster resilience to uncertain global changes. This will be tackled with an innovative approach combining modelling, functional diversity and network analysis.
- 3. **Reinforcing**: build integrated forest landscape management plans tailored and adapted to regional and local needs. This objective will be tackled by engaging stakeholders in ranking management alternatives.
+ 1. **Assessing**: evaluate future forest landscapes scenarios under uncertain global changes. 
+ 2. **Planning**: evaluate novel forest management plans to foster resilience to uncertain global changes. 
+ 3. **Reinforcing**: build integrated forest landscape management plans tailored and adapted to regional and local needs. 
+
+![](/img/reinforce_funding.png)
+ 
+
+## Methods and study areas
+
+We mainly work with the individual-based forest landscape and disturbance model [iLand](https://iland-model.org/startpage), a process-based model of the primary demographic processes in forest ecosystems (i.e. growth, mortality, and regeneration of trees). iLand simulates resource availability at the landscape scale in a spatially-explicit manner, integrating local resource competition and physiological resource use. It also integrates an agent-based model of forest management to dynamically address the interactions between forests and managers as coupled human and natural systems, as well as multiple disturbance agents (e.g., wind disturbance, bark beetle, wildfire, biotic disturbances). The model has been developed and maintained by the professorship for Ecosystem Dynamics and Forest Management at TU Munich.
+
+We also work with the forest stand model [ForClim](https://ites-fe.ethz.ch/openaccess/products/forclim). This is a climate-sensitive forest succession (“gap”) model, developed to simulate forest stand dynamics over a wide range of environmental conditions. In ForClim, establishment, growth, competition and mortality of trees are simulated on small areas (‘patches’), using only a minimum of ecological assumptions to capture the influence of climate and ecological processes on long-term forest dynamics. The model is  parameterized for ca. 180 tree species dominant of temperate forests worldwide and has been tested comprehensively for the representation of natural forest dynamics of temperate forests of the Northern Hemisphere, with an emphasis on [European and Alpine mountain forests]({{< ref "/publication/mina_et-al_2017_JAppEco/index.md" >}}). 
+
+![](/img/reinforce_models.png)
+
+
+We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the specieal project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
 
 
 ## Funding
@@ -55,12 +68,12 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  
 ## Students
- - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ , _University of Bolzano_ - PhD student (Topic: _Forest landscape modelling and adaptive forest management_)
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ , _Free University of Bolzano_ - PhD student (Topic: _Forest landscape modelling and adaptive forest management_)
  - [**Laurin Hillebrand**](https://www.eurac.edu/it/people/laurin-hillebrand) _Eurac Research_ - MSc student (Topic: _Forest stand modelling on protection forests_)
 
 
   
-Also in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
+The project is run in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
 
 [**In memoria di Giustino Tonon †**](https://sisef.org/2021/07/08/in-memoria-di-giustino-tonon/)
 

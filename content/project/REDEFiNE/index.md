@@ -39,7 +39,7 @@ slides: example
 ---
 
 ## Project duration
-2018 - ongoing
+2018 - 2021 (collaborations ongoing)
 
 
 ## Project overview
@@ -52,10 +52,10 @@ We work with the spatially-explicit forest landscape model [LANDIS-II](http://ww
 
 The project follows three main research steps:
  1. to couple process-based models of stand- and landscape-scale of forest dynamics with functional diversity and network theory;
- 2. to evaluate multi-scale forest management options to maintain and increase resilience under scenarios of climate and global change (incl. unexpected disturbances),
- 3. to determine threshold levels of both fragmentation and functional diversity below which the overall resilience of a landscape is threatened under combinations of pulse and press disturbances.
+ 2. to evaluate multi-scale forest management options to maintain and increase resilience under scenarios of climate and global change;
+ 3. to determine threshold levels of functional diversity and functional connectivity below which the overall resilience of a landscape is threatened under combinations of natural disturbances.
 
-This project will test novel and innovative ways to implement resilience-based forest management for large fragmented forest landscapes that are typical of temperate ecosystems.
+This project has been testing novel and innovative ways to implement resilience-based forest management for large forest landscapes that are typical of temperate ecosystems.
 
 The project has been financed in 2018-2019 via a career funding scheme awarded to Marco Mina by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx)  (Postdoc Mobility [Grant N. 175101](http://p3.snf.ch/project-175101)). The project is continuing thanks to funding by the [Canada Research Chair in Forest Resilience to Global Changes](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=4449) awarded to [Christian Messier](http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier). 
 
