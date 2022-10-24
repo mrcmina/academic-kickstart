@@ -36,7 +36,7 @@ The project follows three main research steps:
  2. **Planning**: evaluate novel forest management plans to foster resilience to uncertain global changes. 
  3. **Reinforcing**: build integrated forest landscape management plans tailored and adapted to regional and local needs. 
 
-![](/img/reinforce_funding.png)
+![](/img/reinforce_flow.png)
  
 
 ## Methods and study areas
