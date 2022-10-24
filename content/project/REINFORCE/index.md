@@ -48,7 +48,7 @@ We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/ope
 ![](/img/reinforce_models.png)
 
 
-We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the specieal project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
+We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
 
 ![](/img/reinforce_areas.png)
 
