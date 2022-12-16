@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2022-12-12T14:00:00Z"
 date_end: "2022-12-12T17:00:00Z"
-event: Invited lecturer at the webinar cycle Resilient Forestry, University of Helsinki
+event: Invited lecturer at the webinar cycle *Resilient Forestry*, University of Helsinki
 event_url: ''
 featured: false
 image:
@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Helsinki, Finland (remotely)
+location: Helsinki, Finland [online]
 
 math: true
 publishDate: ""
