@@ -1,13 +1,13 @@
 ---
-title: Spatio temporal scales of resilience – from trees to landscapes and climatic change
+title: Models for sustainable forest management
 
 summary: Invited seminar 
 
 all_day: false
 authors: []
-date: "2022-12-12T14:00:00Z"
-date_end: "2022-12-12T17:00:00Z"
-event: Invited lecturer the webinar cycle *Resilient forestry*, University of Helsinki
+date: "2022-12-05T17:00:00Z"
+date_end: "2022-12-05T18:00:00Z"
+event: Invited lecturer the seminar cycle Ökologisches Kolloquium WS 2022/23
 event_url: ''
 featured: false
 image:
@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Helsinki, Finland [online]
+location: Innsbruck, Austria
 
 math: true
 publishDate: ""
