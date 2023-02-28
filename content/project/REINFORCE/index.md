@@ -68,7 +68,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Katharina Albrich**](https://www.luke.fi/en/henkilosto/katharina-albrich/) _Natural Resource Institute Finland (Luke)_
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  
-## Students
+## Current students
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ , _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
  - [**Laurin Hillebrand**](https://www.eurac.edu/it/people/laurin-hillebrand) _Eurac Research_ - MSc student (Topic: ***Forest stand modelling and impacts of climate change on protection forests***)
 

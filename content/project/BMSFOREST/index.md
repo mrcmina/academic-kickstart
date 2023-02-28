@@ -32,7 +32,10 @@ In this project, we analyze several forest habitat types across South Tyrol. At 
 
 ## Methods
 
-For each site, forest parameters are collected following the guidelines of the [Italian National Forest Inventory](https://www.inventarioforestale.org/). At all selected sites we also apply the standard programs of the Biodiversity Monitoring South Tyrol. The main results of this project are a standardized protocol for monitoring forest sites and an up-to-date picture of sites that are representative of South Tyrol forest ecosystems in terms of species composition, structural characteristics, health status, and degree of management. The forest survey data combined with the Biodiversity Monitoring data will be integrated into a standardized multitaxon data platform for European forests within the [COST Action Bottoms-UP](https://www.bottoms-up.eu/it/). This European cooperation project foresees (1) the creation of a continental database on forest biodiversity, (2) the elaboration of sustainable management indicators and (3) the drafting of management guidelines to be applied mainly in forest certification and protected areas. The results will be achieved on a European scale and our special project contributes to the inclusion of Alpine forests among European forest ecosystems.
+For each site, forest parameters are collected following the guidelines of the [Italian National Forest Inventory](https://www.inventarioforestale.org/). At all selected sites we also apply the standard programs of the Biodiversity Monitoring South Tyrol. The main results of this project are a standardized protocol for monitoring forest sites and an up-to-date picture of sites that are representative of South Tyrol forest ecosystems in terms of species composition, structural characteristics, health status, and degree of management. Since 2022 we also monitor forest and canopy structures using [digital canopy photography](https://cdnsciencepub.com/doi/10.1139/cjfr-2019-0055). The forest survey data combined with the Biodiversity Monitoring data will be integrated into a standardized multitaxon data platform for European forests within the [COST Action Bottoms-UP](https://www.bottoms-up.eu/it/). This European cooperation project foresees (1) the creation of a continental database on forest biodiversity, (2) the elaboration of sustainable management indicators and (3) the drafting of management guidelines to be applied mainly in forest certification and protected areas. The results will be achieved on a European scale and our special project contributes to the inclusion of Alpine forests among European forest ecosystems.
+
+{{< gallery album="bms-album" >}}
+
 
 ## Funding
 
@@ -46,13 +49,14 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
  - [**Chiara Paniccia**](https://www.eurac.edu/it/people/chiara-paniccia) _Eurac Research_
  - [**Andreas Hilpold**](https://www.eurac.edu/it/people/andreas-hilpold) _Eurac Research_
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
+ - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_
 
-## Students
+## Current Students
 - [**Francesca Rigo**](https://www.eurac.edu/it/people/francesca-rigo) _Eurac Research_ / _Wageningen University_ - MSc student (Topic: _Effect of forest structure and managemen on multi-taxon forest biodiversity_)
 
-## Interns and field assistants
+## Past interns and field assistants
 
- - **Maria Suarez-Munoz** _University of Granada_ - Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
+ - **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
  - **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
 
 
