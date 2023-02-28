@@ -42,7 +42,7 @@ abstract: On initiative of the government of the Autonomous Province of Bolzano-
 links:
 url_pdf: "publication/hilpold_et-al_2023_HandbookBMS/HandbookBMS_2023.pdf"
 url_code: ''
-url_dataset: "https://doi.org/10.57749/2QM9-FQ40"
+url_dataset: ''
 url_poster: ''
 url_project: '/project/BMSFOREST/'
 url_slides: ''
