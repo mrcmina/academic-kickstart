@@ -69,8 +69,9 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  
 ## Current students
- - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ , _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
- - [**Laurin Hillebrand**](https://www.eurac.edu/it/people/laurin-hillebrand) _Eurac Research_ - MSc student (Topic: ***Forest stand modelling and impacts of climate change on protection forests***)
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
+ - [**Laurin Hillebrand**](https://www.eurac.edu/it/people/laurin-hillebrand) _Eurac Research_ / _Free University of Bolzano_ - MSc student (Topic: ***Assessing the protective functions of South Tyrol's forests under future climate change***)
+  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling and impacts of climate change on drought-prone protection forests***)
 
 
   
@@ -80,9 +81,11 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 
 <!---   ![](/img/southtyrol.png)  -->
 
-{{< youtube RjohXFKxVbI >}}
 
 -----------------------------
 *Impressions from summer 2021*
 
 {{< gallery album="reinforce-album" >}}
+
+-----------------------------
+{{< youtube RjohXFKxVbI >}}
