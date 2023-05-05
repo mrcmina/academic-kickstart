@@ -1,7 +1,7 @@
 ---
 title: Forest modelling for sustainable management
 
-summary: 
+summary: Lecture
 
 all_day: false
 authors: []
