@@ -73,7 +73,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
   - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling and impacts of climate change on drought-prone protection forests***)
 
 ## Former students and interns
- - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol's forests under future climate change_)
+ - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
 
   
 The project is run in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
