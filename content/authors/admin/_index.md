@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research fellow
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mina.marco@courrier.uqam.ca".
+  link: '#contact'  # For a direct email link, use "mailto:marco.mina@eurac.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/marco_mina_
@@ -74,8 +74,8 @@ email: ""
 
 ---
 
-I am a forest ecologist interested in how to better manage our forests in a future characterized by global changes.  
+I am a forest ecologist at the [Institute for Alpine Environment](https://www.eurac.edu/en/research/mountains/alpenv/Pages/default.aspx) at [Eurac Research](https://www.eurac.edu/) in Bolzano/Bozen, Italy. 
 
-My work aims at studying the dynamics of forest ecosystems to anticipate the potential impacts of climate, disturbance and socio-economic changes. I use simulation models of forest dynamics to explore interactions of trees with their changing environment and forest management strategies to enhance long-term resistance and resilience at multiple scales - from stand to landscape. I am passionate in dendrology, geography, silviculture, tree-ring research, forest inventory and the ecology of mixed forests. And I love mountains, cross-country skiing and home brewing. 
+I am interested in understanding how to better manage our forests in a future characterized by global changes. My work aims at studying the dynamics of forest ecosystems to anticipate the potential impacts of climate, disturbance and socio-economic changes. I am specialized in the application of simulation models of forest dynamics to explore interactions of trees with their changing environment and forest management strategies to enhance long-term resistance and resilience at multiple scales - from stand to landscape. I am also interested about dendrology, silviculture, dendroecological research, forest inventory and forest biodiversity. And I love mountains, geography, travelling, biking, cross-country skiing and home brewing. 
 
-I am based in Bolzano/Bozen in the province of South Tyrol, Italy, at the [Institute of Alpine Environment](https://www.eurac.edu/en/research/mountains/alpenv/Pages/default.aspx) at [Eurac Research](https://www.eurac.edu/). See the [REINFORCE project webpage](https://www.marco-mina.com/project/reinforce/) to know more.
+See the [REINFORCE project webpage](https://www.marco-mina.com/project/reinforce/) to know more about my current research.
