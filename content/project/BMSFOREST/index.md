@@ -52,7 +52,8 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
  - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_
 
 ## Current Students
-- [**Francesca Rigo**](https://www.eurac.edu/it/people/francesca-rigo) _Eurac Research_ / _Wageningen University_ - MSc student (Topic: _Effect of forest structure and managemen on multi-taxon forest biodiversity_)
+- [**Anouk Von Meijenfeldt**](https://www.eurac.edu/en/people/anouk-francine-von-meijenfeldt) _Eurac Research_ / _Wageningen University_ - Internship/MSc student (Topic: _Detecting forest structure characteristics with canopy photography_)
+- [**Francesca Rigo**](https://www.eurac.edu/it/people/francesca-rigo) _Eurac Research_ / _Wageningen University_ - MSc student (Topic: _Forest characteristics influence bat and bird diversity in the Italian Alps_)
 
 ## Past interns and field assistants
 

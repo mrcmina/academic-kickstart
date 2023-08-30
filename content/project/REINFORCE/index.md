@@ -70,7 +70,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  
 ## Current students
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
-  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling and impacts of climate change on drought-prone protection forests***)
+  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests of the Italian Alps***)
 
 ## Former students and interns
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
