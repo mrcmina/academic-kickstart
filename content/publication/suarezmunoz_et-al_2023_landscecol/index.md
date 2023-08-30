@@ -16,7 +16,7 @@ doi: "https://doi.org/10.1007/s10980-023-01678-y"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Landscape Ecology* (2023)"

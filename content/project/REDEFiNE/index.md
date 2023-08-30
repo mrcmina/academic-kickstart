@@ -65,8 +65,11 @@ The project has been financed in 2018-2019 via a career funding scheme awarded t
  - [**Christian Messier**](http://www.cef-cfr.ca/index.php?n=Membres.ChristianMessier) *Université du Québec à Montréal UQAM and Université du Québec en Outauais ISFORT-UQO*
  - [**Matthew Duveneck**](https://necmusic.edu/faculty/matthew-duveneck-phd) *New England Conservatory's liberal arts* & *Harvard Forest, Petersham MA*
  - [**Marie Joseè Fortin**](https://fortin.eeb.utoronto.ca/) *University of Toronto*
+ - [**Peter Osborne**](https://www.mcgill.ca/architecture/programs/postprofessional/current-phd-students#Osborne) *McGill Univerisity, Montreal*
 
 ## Key publications
+
+Osborne P, Aquilué N, **Mina M** , Moe K, Jemtrud M, Messier C (2023). [*A trait-based approach to both forestry and timber building can synchronize forest harvest and resilience*]({{< ref "/publication/osborne_et-al_2023_PNASNexus/index.md" >}}). PNAS Nexus, 2, 8 pgad254. 
 
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. 28, 4323– 4341. 
 
