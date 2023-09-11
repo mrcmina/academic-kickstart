@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2023-09-04T09:00:00Z"
 date_end: "2023-09-08T12:00:00Z"
-event: European Conference of Ecological Modelling **ECEM 2023** - Leipzig, Germany
+event: European Conference of Ecological Modelling **ECEM 2023**
 event_url: 'https://ecem23.eu/'
 featured: false
 image:
