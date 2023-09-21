@@ -30,7 +30,7 @@ abstract: Protection forests play a key role in protecting settlements, people, 
 links:
 url_pdf: "publication/hillebrand_et-al_2003_Frontiers/hillebrand_etal_2023.pdf"
 url_code: ''
-url_dataset: "https://doi.org/10.5281/zenodo.8184010"
+url_dataset: "https://zenodo.org/record/8131674"
 url_poster: ''
 url_project: '/project/reinforce/'
 url_slides: ''
