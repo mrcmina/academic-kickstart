@@ -41,6 +41,10 @@ The project follows three main research steps:
 
 ## Methods and study areas
 
+We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
+
+![](/img/reinforce_areas.png)
+
 We mainly work with the *individual-based forest landscape and disturbance model* [iLand](https://iland-model.org/startpage), a process-based model of the primary demographic processes in forest ecosystems (i.e. growth, mortality, and regeneration of trees). iLand simulates resource availability at the landscape scale in a spatially-explicit manner, integrating local resource competition and physiological resource use. It also integrates an *agent-based model of forest management* to dynamically address the interactions between forests and managers as coupled human and natural systems, as well as multiple *disturbance agents* (e.g., wind disturbance, bark beetle, wildfire, biotic disturbances). The model has been developed and maintained by the professorship for Ecosystem Dynamics and Forest Management at TU Munich.
 
 We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/openaccess/products/forclim), a climate-sensitive forest succession (“gap”) model developed to simulate forest stand dynamics over a wide range of environmental conditions. In ForClim, establishment, growth, competition and mortality of trees are simulated on small areas (‘patches’) using only a minimum of ecological assumptions to capture the influence of climate and ecological processes on long-term forest dynamics. The model has been tested comprehensively for the representation of natural forest dynamics of temperate forests of the Northern Hemisphere, with an emphasis on [European and Alpine mountain forests]({{< ref "/publication/mina_et-al_2017_JAppEco/index.md" >}}). It has been developed and maintained by the professorship for Forest Ecology at ETH Zurich.
@@ -48,9 +52,6 @@ We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/ope
 ![](/img/reinforce_models.png)
 
 
-We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
-
-![](/img/reinforce_areas.png)
 
 ## Funding
 
@@ -70,7 +71,7 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  
 ## Current students
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
-  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests of the Italian Alps***)
+  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests in South Tyrol***)
 
 ## Former students and interns
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
@@ -82,9 +83,16 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 
 <!---   ![](/img/southtyrol.png)  -->
 
+-----------------------------
+## Key publications
+
+Hillebrand L, Marzini S, Crespi A, Hiltner U, **Mina M** (2023). [*Contrasting impacts of climate change on protection forests of the Italian Alps*]({{< ref "/publication/hillebrand_et-al_2023_Frontiers/index.md" >}}). Frontiers in Forests and Global Change 6 1240235 
+
+**Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. 28, 4323– 4341. 
+
 
 -----------------------------
-*Impressions from summer 2021*
+*Impressions from fieldwork in the Alps (summer 2021)*
 
 {{< gallery album="reinforce-album" >}}
 
