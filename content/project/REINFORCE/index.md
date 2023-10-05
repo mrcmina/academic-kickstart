@@ -86,8 +86,6 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 -----------------------------
 ## Key publications
 
-Hillebrand L, Marzini S, Crespi A, Hiltner U, **Mina M** (2023). [*Contrasting impacts of climate change on protection forests of the Italian Alps*]({{< ref "/publication/hillebrand_et-al_2023_Frontiers/index.md" >}}). Frontiers in Forests and Global Change 6 1240235 
-
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. 28, 4323– 4341. 
 
 
