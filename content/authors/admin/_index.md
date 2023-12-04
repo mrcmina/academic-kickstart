@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:marco.mina@eurac.edu".
-- icon: x-twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/marco_mina_
 - icon: google-scholar
