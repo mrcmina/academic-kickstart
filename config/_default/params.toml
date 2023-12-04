@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-x = "@marco_mina_"
+twitter = "@marco_mina_"
 
 ############################
 ## Regional Settings
