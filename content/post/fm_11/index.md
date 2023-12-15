@@ -11,7 +11,7 @@ image:
 
 In one of my previous posts I have already focused on the complex topic of competition among tree species. In that post I discussed the variability of species interactions (aka mixing effects) which depends on multiple environmental factors. Here I would like to enter even more into the specific. I would like to talk a bit about the “mode of competition”, in other words whether trees of different species compete more of aboveground or belowground resources. 
 
-The post is published in the website [Forest Monitor](http://www.forest-monitor.com/en/) 
+The post is published in the website [Forest Monitor](https://www.blog.forest-monitor.com/en/) 
 
-Here's [the link to the post](http://www.forest-monitor.com/en/symmetry-competition-tree-species/)
+Here's [the link to the post](https://www.blog.forest-monitor.com/en/symmetry-competition-tree-species/)
 

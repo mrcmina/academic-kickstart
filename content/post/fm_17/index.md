@@ -11,7 +11,7 @@ image:
 
 Insects are part of our ecosystems and are well integrated in the dynamics of our forests. However, high-intensity episodes, known as outbreaks, can have strong negative impacts on forest landscapes. In this post written with **Quim Canelles** from the Forest Sciences and Technology Centre of Catalonia (CTFC) we summarize the results of a recent review paper published in the journal *Landscape Ecology* shedding some light on the indirect effects of insect outbreaks through interactions with other forest disturbances.
 
-The post is published in the website [Forest Monitor](http://www.forest-monitor.com/en/) 
+The post is published in the website [Forest Monitor](https://www.blog.forest-monitor.com/en/) 
 
-Here's [the link to the post](https://www.forest-monitor.com/en/insect-pests-forest-disturbances/)
+Here's [the link to the post](https://www.blog.forest-monitor.com/en/insect-pests-forest-disturbances/)
 
