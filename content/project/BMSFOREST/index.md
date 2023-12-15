@@ -53,14 +53,18 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 
 ## Current Students
 - [**Anouk Von Meijenfeldt**](https://www.eurac.edu/en/people/anouk-francine-von-meijenfeldt) _Eurac Research_ / _Wageningen University_ - Internship/MSc student (Topic: _Detecting forest structure characteristics with canopy photography_)
-- [**Francesca Rigo**](https://www.eurac.edu/it/people/francesca-rigo) _Eurac Research_ / _Wageningen University_ - MSc student (Topic: _Forest characteristics influence bat and bird diversity in the Italian Alps_)
 
-## Past interns and field assistants
 
+## Former students, interns and field assistants
+- **Francesca Rigo** _Wageningen University_ - MSc student/Trainee researcher (Topic: _Forest characteristics influence bat and bird diversity in the Italian Alps_)
  - **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
  - **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
 
 
+-----------------------------
+## Key publications
+
+Rigo F, Paniccia C, Anderle M, Chianucci F, Obojes N, Tappeiner U, Hilpold A, **Mina M**. Relating forest structural characteristics to bat and bird diversity in the Italian Alps. (under revision)
   
  
 

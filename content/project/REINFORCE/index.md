@@ -71,10 +71,12 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  
 ## Current students
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
-  - [**Francesca Eccher**](https://www.eurac.edu/en/people/francesca-eccher) _Free University of Bolzano_ / _Eurac Research_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests in South Tyrol***)
+ - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Topic: ***Species distribution modelling under climate change in South Tyrol***)
+
 
 ## Former students and interns
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
+ - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests in South Tyrol***)
 
   
 The project is run in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
@@ -87,6 +89,8 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 ## Key publications
 
 Hillebrand L, Marzini S, Crespi A, Hiltner U and **Mina M** (2023). [*Contrasting impacts of climate change on protection forests of the Italian Alps*]({{< ref "/publication/hillebrand_et-al_2023_Frontiers/index.md" >}}). Frontiers in Forests and Global Change 6 1240235. 
+
+Suárez-Muñoz M, Bonet-García F, Navarro-Cerrillo RM, Herrero J, and **Mina M** (2023). [*Forest management scenarios drive future dynamics of Mediterranean planted pine forests under climate change*]({{< ref "/publication/suarezmunoz_et-al_2023_landscecol/index.md" >}}). Landscape Ecology 38, 2069–2084. 
 
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. 28, 4323– 4341. 
 
