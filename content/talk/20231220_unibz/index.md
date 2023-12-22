@@ -1,7 +1,7 @@
 ---
-title: Monitoraggio della biodiversità forestale in Alto Adige - primi risultati e prospettive
+title: Modelling forest dynamics
 
-summary: Convegno
+summary: University lecture
 
 all_day: false
 authors: []
