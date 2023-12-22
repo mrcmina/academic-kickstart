@@ -5,10 +5,10 @@ summary: Convegno
 
 all_day: false
 authors: []
-date: "2023-11-10T09:00:00Z"
-date_end: "2023-11-10T18:00:00Z"
-event: Contribution to the workshop on forest biodiversity **Progetto LIFE SPAN ed altre esperienze. Selvicoltura, biodiversità e networking - a che punto siamo?**
-event_url: 'https://www.lifespanproject.eu/it/news-it/189-workshop-del-progetto-life-span-a-trento/'
+date: "2023-12-20T10:00:00Z"
+date_end: "2023-12-20T12:00:00Z"
+event: Invited lecture for the course Managing Mountain forests at the Free University of Bolzano/Bozen - Winter Semester 2023/24
+event_url: 'https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-environmental-management-mountain-areas'
 featured: false
 image:
   focal_point: ""
@@ -19,7 +19,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: ''
-location: Trento, Italy
+location: Bolzano/Bozen, Italy
 
 math: true
 publishDate: ""

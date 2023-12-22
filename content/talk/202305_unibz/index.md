@@ -1,14 +1,14 @@
 ---
-title: Modelling forest dynamics
+title: Forest modelling for sustainable management 
 
 summary: University lecture
 
 all_day: false
 authors: []
-date: "2023-12-20T10:00:00Z"
-date_end: "2023-12-20T12:00:00Z"
-event: Invited lecture for the course Managing Mountain forests at the Free University of Bolzano/Bozen - Winter Semester 2023/24
-event_url: 'https://www.unibz.it/en/faculties/agricultural-environmental-food-sciences/master-environmental-management-mountain-areas'
+date: "2023-05-03T10:00:00Z"
+date_end: "2023-05-03T12:00:00Z"
+event: Invited lecture lifelearning course Studium Generale at the Free University of Bolzano/Bozen - Summer Semester 2022/23
+event_url: 'https://www.unibz.it/it/faculties/further-courses/studium-generale/'
 featured: false
 image:
   focal_point: ""
