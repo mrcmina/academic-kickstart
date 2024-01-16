@@ -70,13 +70,13 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  
 ## Current students
- - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: ***Forest landscape modelling, treeline dynamics and adaptive forest management***)
- - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Topic: ***Species distribution modelling under climate change in South Tyrol***)
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: _Forest landscape modelling, treeline dynamics and adaptive forest management_)
+ - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Topic: _Species distribution modelling under climate change in South Tyrol_)
 
 
 ## Former students and interns
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
- - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Topic: ***Forest stand modelling on drought-prone forests in South Tyrol***)
+ - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Topic: _Forest stand modelling on drought-prone forests in South Tyrol_)
 
   
 The project is run in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
@@ -96,7 +96,7 @@ Suárez-Muñoz M, Bonet-García F, Navarro-Cerrillo RM, Herrero J, and **Mina M*
 
 
 -----------------------------
-*Impressions from fieldwork in the Alps (summer 2021)*
+*Impressions from fieldwork in the Alps (summers 2021-2022)*
 
 {{< gallery album="reinforce-album" >}}
 
