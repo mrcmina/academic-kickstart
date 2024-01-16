@@ -18,7 +18,7 @@ doi: "https://doi.org/10.1093/pnasnexus/pgad254"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*PNAS Nexus*  Vol 2, Issue 8, pgad254"

@@ -52,7 +52,7 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
  - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_
 
 ## Current Students
-- [**Anouk Von Meijenfeldt**](https://www.eurac.edu/en/people/anouk-francine-von-meijenfeldt) _Eurac Research_ / _Wageningen University_ - Internship/MSc student (Topic: _Detecting forest structure characteristics with canopy photography_)
+- [**Anouk Von Meijenfeldt**](https://www.eurac.edu/en/people/anouk-francine-von-meijenfeldt) _Wageningen University_ - Internship/MSc student (Topic: _Relation between forest canopy structure and understory plant communities_)
 
 
 ## Former students, interns and field assistants
@@ -64,7 +64,11 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 -----------------------------
 ## Key publications
 
-Rigo F, Paniccia C, Anderle M, Chianucci F, Obojes N, Tappeiner U, Hilpold A, **Mina M**. Relating forest structural characteristics to bat and bird diversity in the Italian Alps. (under revision)
+Rigo F, Paniccia C, Anderle M, Chianucci F, Obojes N, Tappeiner U, Hilpold A, **Mina M**. 2024.[*Relating forest structural characteristics to bat and bird diversity in the Italian Alps*]({{< ref "/publication/rigo_et-al_2024_foreco/index.md" >}}). Forest Ecology and Management.554(121673)
+
+Hilpold A, Anderle M, Guariento E, Marsoner T, **Mina M**, Paniccia C, Plunger J, Rigo F, Ruedisser J, Scotti A, Seeber J, Steinwandter M, Stifter S, Strobl J, Suárez-Munoz M, Vanek M, Bottarin R, Tappeiner U. 2023. [*Handbook Biodiversity Monitoring South Tyrol*]({{< ref "/publication/hilpold_et-al_2023_HandbookBMS/index.md" >}}). Eurac Research Methodological Report.
+
+
   
  
 

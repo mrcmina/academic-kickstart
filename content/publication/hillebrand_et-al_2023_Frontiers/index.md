@@ -10,7 +10,7 @@ authors:
 
 
 date: "2023-09-21T00:00:00Z"
-doi: "https://www.frontiersin.org/articles/10.3389/ffgc.2023.1240235/full"
+doi: "https://doi.org/10.3389/ffgc.2023.1240235"
 
 
 # Publication type.
