@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2024-03-19T09:00:00Z"
 date_end: "2024-03-21T17:00:00Z"
-event: COST Bottoms-UP Final Conference - Rome, Italy
+event: COST Bottoms-UP Final Conference
 event_url: 'https://www.bottoms-up.eu/en/'
 featured: false
 image:
