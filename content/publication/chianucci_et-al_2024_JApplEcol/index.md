@@ -48,7 +48,7 @@ authors:
 - Sitzia T.
 - Brazaitis G.
 - Marozas V.
-- Ujhazyova M,
+- Ujhazyova M.
 - Ujhazy K.
 - Frantisek M.
 - Nordén B.
