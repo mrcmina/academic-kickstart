@@ -16,7 +16,7 @@ doi: "https://doi.org/10.1101/2024.08.29.610276 "
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*bioRxiv* 2024.08.29.610276"
