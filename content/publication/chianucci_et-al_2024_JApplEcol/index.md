@@ -53,10 +53,8 @@ authors:
 - Frantisek M.
 - Nordén B.
 - Burrascano S. 
-
-
 date: "2024-09-03T00:00:00Z"
-doi: " https://doi.org/10.1111/1365-2664.14740"
+doi: "https://doi.org/10.1111/1365-2664.14740"
 
 
 # Publication type.
@@ -73,8 +71,8 @@ abstract: Managing forests to sustain their diversity and functioning is a major
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 'https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.14740'
+#  url: "https:addlink"
+url_pdf: "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.14740"
 url_code: ''
 url_dataset: '
 url_poster: ''
