@@ -51,18 +51,17 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
  - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_
 
-## Current Students
-- [**Anouk Von Meijenfeldt**](https://www.eurac.edu/en/people/anouk-francine-von-meijenfeldt) _Wageningen University_ - Internship/MSc student (Topic: _Relation between forest canopy structure and understory plant communities_)
-
 
 ## Former students, interns and field assistants
+- **Anouk Von Meijenfeldt** _Wageningen University_ - MSc student/Trainee researcher (Topic: _Relation between forest canopy structure and understory plant communities_)
 - **Francesca Rigo** _Wageningen University_ - MSc student/Trainee researcher (Topic: _Forest characteristics influence bat and bird diversity in the Italian Alps_)
- - **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
- - **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
+- **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
+- **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
 
 
 -----------------------------
 ## Key publications
+von Meijenfeldt A, Chianucci F, Rigo F, Ottenburghs J, Hilpold A, **Mina M**. 2024. [*Reliability of canopy photography for forest ecology and biodiversity studies*]({{< ref "/publication/vonmeijenfeldt_et-al_2024_preprint/index.md" >}}). biorXiv 2024.08.29.610276 (pre-print, submitted to journal)
 
 Rigo F, Paniccia C, Anderle M, Chianucci F, Obojes N, Tappeiner U, Hilpold A, **Mina M**. 2024.[*Relating forest structural characteristics to bat and bird diversity in the Italian Alps*]({{< ref "/publication/rigo_et-al_2024_foreco/index.md" >}}). Forest Ecology and Management.554(121673)
 
