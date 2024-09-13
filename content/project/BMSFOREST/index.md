@@ -53,8 +53,8 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 
 
 ## Former students, interns and field assistants
-- **Anouk Von Meijenfeldt** _Wageningen University_ - MSc student/Trainee researcher (Topic: _Relation between forest canopy structure and understory plant communities_)
-- **Francesca Rigo** _Wageningen University_ - MSc student/Trainee researcher (Topic: _Forest characteristics influence bat and bird diversity in the Italian Alps_)
+- **Anouk Von Meijenfeldt** _Wageningen University_ - MSc student/Trainee researcher (Jul 2023 - March 2024)
+- **Francesca Rigo** _Wageningen University_ - MSc student/Trainee researcher (Jul 2022 - Jun 2023)
 - **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
 - **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
 
