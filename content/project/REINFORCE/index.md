@@ -41,7 +41,7 @@ The project follows three main research steps:
 
 ## Methods and study areas
 
-We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. As specific case studies, we focused on the Vinschgau/Venosta valley, the Stubai valley in Austria and the Val D'Ega/Val di Fiemme (upcoming!). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
+We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. Our main study landscape of investigation is located in the upper Vinschgau/Venosta valley. We also used the Stubai valley in Austria as a modelling case study. We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
 
 ![](/img/reinforce_areas.png)
 
@@ -55,7 +55,7 @@ We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/ope
 
 ## Funding
 
-The project is financed from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the [**Marie Skłodowska-Curie grant agreement No 891671**](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. 
+The project has been initially financed from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the [**Marie Skłodowska-Curie grant agreement No 891671**](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. The activities of the project are continuing within the Institute for Alpine Environment at Eurac Research.
 
 ![](/img/reinforce_funding.png)
 
@@ -71,12 +71,11 @@ The project is financed from the European Union’s [**Horizon 2020**](https://e
  
 ## Current students
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: _Forest landscape modelling, treeline dynamics and adaptive forest management_)
- - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Topic: _Species distribution modelling under climate change in South Tyrol_)
-
 
 ## Former students and interns
- - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Topic: _Assessing the protective functions of South Tyrol forests under future climate change_)
- - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Topic: _Forest stand modelling on drought-prone forests in South Tyrol_)
+ - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Feb-Dec 2023)
+ - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Feb-Dec 2023)
+ - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Feb-Dec 2022)
 
   
 The project is run in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol 
