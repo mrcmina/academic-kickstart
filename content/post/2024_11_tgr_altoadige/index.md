@@ -1,5 +1,5 @@
 ---
-title: Eurac, lo studio sulla biodiversità si espande ai funghi
+title: Eurac - lo studio sulla biodiversità si espande ai funghi
 date: 2024-11-07
 math: true
 diagram: true
