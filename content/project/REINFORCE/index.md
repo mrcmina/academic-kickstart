@@ -87,6 +87,8 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 -----------------------------
 ## Key publications
 
+Marzini S, Tasser E, Wellstein C, Albrich K, Rammer W, and **Mina M** (2024). Future expansion of alpine forest-grassland ecotone under land-use and climate change. [*ResearchSquare Preprint*](https://www.researchsquare.com/article/rs-4789034/v1) (under review).
+
 Hillebrand L, Marzini S, Crespi A, Hiltner U and **Mina M** (2023). [*Contrasting impacts of climate change on protection forests of the Italian Alps*]({{< ref "/publication/hillebrand_et-al_2023_Frontiers/index.md" >}}). Frontiers in Forests and Global Change 6 1240235. 
 
 Suárez-Muñoz M, Bonet-García F, Navarro-Cerrillo RM, Herrero J, and **Mina M** (2023). [*Forest management scenarios drive future dynamics of Mediterranean planted pine forests under climate change*]({{< ref "/publication/suarezmunoz_et-al_2023_landscecol/index.md" >}}). Landscape Ecology 38, 2069–2084. 
