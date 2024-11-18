@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:marco.mina@eurac.edu".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marco-mina-814b1844/
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/marco-mina.bsky.social
