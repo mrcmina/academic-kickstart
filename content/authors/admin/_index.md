@@ -45,7 +45,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marco-mina-814b1844/
-- icon: bluesky
+- icon: fa-bluesky
   icon_pack: fab
   link: https://bsky.app/profile/marco-mina.bsky.social
 - icon: google-scholar
