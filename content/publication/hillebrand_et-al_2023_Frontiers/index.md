@@ -18,7 +18,7 @@ doi: "https://doi.org/10.3389/ffgc.2023.1240235"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Frontiers in Forests and Global Change*  6 1240235"
