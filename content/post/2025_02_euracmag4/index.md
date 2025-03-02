@@ -1,6 +1,6 @@
 ---
 title: The echo of death
-date: 2024-02-25
+date: 2025-02-25
 math: true
 diagram: true
 reading_time: false  
