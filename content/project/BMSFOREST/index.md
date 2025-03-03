@@ -60,7 +60,7 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 
 -----------------------------
 ## Key publications
-von Meijenfeldt A, Chianucci F, Rigo F, Ottenburghs J, Hilpold A, **Mina M**. 2024. [*Reliability of canopy photography for forest ecology and biodiversity studies*]({{< ref "/publication/vonmeijenfeldt_et-al_2024_preprint/index.md" >}}). biorXiv 2024.08.29.610276 (pre-print, under review)
+von Meijenfeldt A, Chianucci F, Rigo F, Ottenburghs J, Hilpold A, **Mina M**. 2025. [*Reliability of canopy photography for forest ecology and biodiversity studies*]({{< ref "/publication/vonmeijenfeldt_et-al_2025_ecolind/index.md" >}}). Ecological Indicators, 172-113293
 
 Chianucci F, Napoleone F, Ricotta C, Ferrara C, Fusaro L, Balducci L, Trentanovi G, Bradley O, Kovacs B, **Mina M**, … Burrascano S. 2024. [*Silvicultural regime shapes understory functional structure in European forests*]({{< ref "/publication/chianucci_et-al_2024_JApplEcol/index.md" >}}). Journal of Applied Ecology, 61, 2350–2364. 
 
