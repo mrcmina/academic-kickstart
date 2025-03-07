@@ -64,7 +64,7 @@ The project has been initially financed from the European Union’s [**Horizon 2
 ## Project team and collaborators
 
  - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_ ***Project manager***
- - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_, _Innsbruck University, Austria_ ***Vice project manager***
+ - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_, ***Vice project manager***
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
  - [**Katharina Albrich**](https://www.luke.fi/en/henkilosto/katharina-albrich/) _Natural Resource Institute Finland (Luke)_
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
@@ -86,6 +86,8 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 
 -----------------------------
 ## Key publications
+
+**Mina M.**, Marzini S., Crespi A., Albrich K. (2025). [*Building virtual forest landscapes to support forest management: the challenge of parameterization*]({{< ref "/publication/mina_et-al_2025_ForestsMonitor/index.md" >}}). Forests Monitor 2(1), 49-96. 
 
 Marzini S, Tasser E, Wellstein C, Albrich K, Rammer W, and **Mina M** (2025). [*Future expansion of upper forest-grassland ecotone under land-use and climate change in the Eastern Alps*]({{< ref "/publication/marzini_et-al_2025_landscecol/index.md" >}}). Landscape Ecology 40,55 (2025). 
 
