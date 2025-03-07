@@ -33,7 +33,7 @@ url_pdf: "publication/marzini_et-al_2025_landscecol/marzini_2025_landscecol.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: '/project/reinforce/'
 url_slides: ''
 url_source: ''
 url_video: ''
