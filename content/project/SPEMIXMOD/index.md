@@ -56,8 +56,6 @@ The project has been supported by a grant from the Swiss State Secretariat for E
  - [**Esther Thurig**](https://www.wsl.ch/en/employees/thuerig.html), *WSL Birmensdorf* -  project lead
  - [**Brigitte Rohner**](https://www.wsl.ch/en/employees/rohnerb.html), *WSL Birmensdorf* - deputy project lead
  - **Markus Huber**, *WSL Birmensdorf* - project partner
- - [**Peter Brang**](https://www.wsl.ch/en/employees/brang.html), *WSL Birmensdorf*  - project partner
- - [**Petia Simeonova Nikolova**](https://www.wsl.ch/en/employees/nikolova.html) *WSL Birmensdorf*  - project partner
 
 
 
@@ -67,5 +65,5 @@ The project has been supported by a grant from the Swiss State Secretariat for E
 
 **Mina M**, Del Rio M, Huber MO, Thürig E, Rohner B (2018) [*The symmetry of competitive interactions in mixed Norway spruce, silver fir and European beech forests*]({{< ref "/publication/mina_et-al_2018_JVegSci/index.md" >}}). Journal of Vegetation Science. 29:775–787. Featured in the [Journal of Vegetation Science Blog](https://jvsavsblog.org/2018/09/15/the-symmetry-of-competition-a-battle-crown-to-crown-or-roots-to-roots/) and in the [EFI Resilience Blog](https://resilience-blog.com/2018/10/16/the-symmetry-of-competition-does-the-battle-take-place-above-or-below-our-feet/)
 
-Nikolova, P.S.; Rohner, B.; Zell, J.; Brang, P., (2019) [Tree species dynamics in Swiss forests as affected by site, stand and management: a retrospective analysis](https://www.sciencedirect.com/science/article/abs/pii/S0378112719302373?via%3Dihub). Forest Ecology and Management, 448: 278-293.
+Houpert L, Rohner B, Forrester D, **Mina M**, Huber M.O. (2018). [*Mixing effects in norway spruce-european beech stands are modulated by site quality, stand age and moisture availability*]({{< ref "/publication/houpert_et-al_2018_forests/index.md" >}}) Forests 9(2), 83.
 
