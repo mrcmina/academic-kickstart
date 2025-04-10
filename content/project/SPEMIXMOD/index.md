@@ -16,7 +16,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: Mixed forest in the Alps (M.Mina)
+  caption: 
   focal_point: Smart
 
 links:
