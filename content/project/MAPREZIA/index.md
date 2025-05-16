@@ -64,7 +64,7 @@ The project is funded under the programme [**INTERREG Italy-Switzerland 2021-202
 
 
 -----------------------------
-*First activities of the project* (photos by Chiara Giari - Stelvio NP)
+<!---  *First activities of the project* (photos by Chiara Giari - Stelvio NP)  -->  
 
-{{< gallery album="maprezia-album" >}}
+<!--- {{< gallery album="maprezia-album" >}}  -->
 
