@@ -1,6 +1,6 @@
 ---
 title: REDEFiNE
-summary: Resilience-based forest management with network theory
+summary: Resilience-based forest management with network theory - COMPLETED
 tags:
 - Forest Resilience
 - Landscape modelling

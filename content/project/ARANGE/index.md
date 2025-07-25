@@ -1,6 +1,6 @@
 ---
 title: ARANGE
-summary: Advanced multifunctional management of European mountain forests
+summary: Advanced multifunctional management of European mountain forests - COMPLETED
 tags : 
 - Forest Management
 - Stand modelling
