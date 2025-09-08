@@ -61,8 +61,4 @@ The project is funded under the call [**Call: G-03-2024-2 Establishing Climate-S
 
 
 
------------------------------
-<!---  *First activities of the project* (photos by Marco Mina)  -->  
-
-<!--- {{< gallery album="alpfor-album" >}}  -->
 
