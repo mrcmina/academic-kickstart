@@ -40,9 +40,14 @@ Data collection occurs at two levels: stand-level (approx. 1 ha) and tree-level 
 The project is implementated in four work packages (WP).
 
  - **WP1. Project management and Dissemination** Coordinates activities, prepares reports, and organizes scientific dissemination and a workshop with forest managers.
- - **WP2. CSF Protocol Development and Treatment Execution** Develops operational CSF protocols for silvicultural treatments and oversees their implementation by the Provincial Forest Services on state-owned forests.
+![](/img/alpfor_wp1.png)
+ - **WP2. CSF Protocol Development and Treatment Execution** Develops operational CSF protocols for silvicultural treatments in the field trials and oversees their implementation by the Provincial Forest Services of state-owned forests.
+![](/img/alpfor_wp2.png)
+ 
  - **WP3. Field Data Collection** Conducts two consecutive seasons of detailed field measurements using in situ sensors and close range remote sensing, including installation of dendrometers and microclimate loggers.
+![](/img/alpfor_wp3.png)
  - **WP4.Data Analysis, Modeling, and Management Survey** Processes and organizes data into an open-access database, derives CSF indicators, runs forest dynamic simulations, and conducts a survey among forest managers to assess perceptions and feasibility of CSF approaches.
+![](/img/alpfor_wp4.png)
 
 
 ## Funding
