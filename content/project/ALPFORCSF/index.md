@@ -21,7 +21,7 @@ slides: example
 ---
 
 ## Project duration
-2025 - 2026 (ongoing)
+2025 - ongoing
 
 
 ## Project overview
