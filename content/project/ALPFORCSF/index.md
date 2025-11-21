@@ -60,6 +60,7 @@ The project is funded under the call [**Call: G-03-2024-2 Establishing Climate-S
 
  - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research_ - Project manager
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_
+ - [**Luca Colzi**](https://www.eurac.edu/en/people/luca-colzi) _Eurac Research_
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
  - [**Tamara Bibbó**](https://www.eurac.edu/en/people/tamara-bibbo) _Eurac Research_
 
