@@ -29,7 +29,7 @@ featured: false
 publication: "*International Journal of Applied Earth Observation and Geoinformation* 144(2025) 104902"
 publication_short: ""
 
-abstract: to be added
+abstract: The Spectral Variation Hypothesis suggests that differences in spectral data from optical sensors can help estimate biodiversity. This study tested the hypothesis in 42 forest plots in the Italian Alps using satellite imaging, examining how spectral variation relates to tree species diversity. Analyses were performed at various spectral and spatial levels, including adjustments for pixel overlap and canopy cover. Results showed weak to moderate correlations, with the strongest found in the near-infrared range and when using weighted spatial approaches, especially in plots with dense canopy. The findings demonstrate that hyperspectral satellite data can offer useful information for monitoring forest biodiversity, despite some limitations.
 
 
 links:
