@@ -41,13 +41,13 @@ The project follows three main research steps:
 
 ## Methods and study areas
 
-We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [Trentino/South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) region in Italy. Our main study landscape of investigation is located in the upper Vinschgau/Venosta valley. We also used the Stubai valley in Austria as a modelling case study. We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
+We study forest stand and landscape dynamics in the [Eastern Alps](https://en.wikipedia.org/wiki/Eastern_Alps), particularly those surrounding the [South Tyrol](https://en.wikipedia.org/wiki/Trentino-Alto_Adige/S%C3%BCdtirol) province of Italy. Our main study landscape of investigation is located in the upper Venosta valley (Vinschgau), which includes the Val Mazia/Matsch and the portion of the Stelvio National Park bordering Switzerland (see figure below). We also selected a number of representative forest stands representaive for multiple forest types across South Tyrol, in conjunction with the special project [BMS-FOREST]({{< ref "/project/BMSFOREST/index.md" >}}). 
 
 ![](/img/reinforce_areas.png)
 
-We mainly work with the *individual-based forest landscape and disturbance model* [iLand](https://iland-model.org/startpage), a process-based model of the primary demographic processes in forest ecosystems (i.e. growth, mortality, and regeneration of trees). iLand simulates resource availability at the landscape scale in a spatially-explicit manner, integrating local resource competition and physiological resource use. It also integrates an *agent-based model of forest management* to dynamically address the interactions between forests and managers as coupled human and natural systems, as well as multiple *disturbance agents* (e.g., wind disturbance, bark beetle, wildfire, biotic disturbances). The model has been developed and maintained by the professorship for Ecosystem Dynamics and Forest Management at TU Munich.
+We mainly work with the *individual-based forest landscape and disturbance model* [iLand](https://iland-model.org/startpage), a process-based model of the primary demographic processes in forest ecosystems (i.e. growth, mortality, and regeneration of trees). iLand simulates resource availability at the landscape scale in a spatially-explicit manner, integrating local resource competition and physiological resource use. It also integrates an *agent-based model of forest management* to dynamically address the interactions between forests and managers as coupled human and natural systems, as well as multiple *disturbance agents* (e.g., wind disturbance, bark beetle, wildfire, biotic disturbances). The model has been developed and maintained by the professorship for Ecosystem Dynamics and Forest Management at TU Munich. The parameterization and set up of iLand in the Venosta study area is described in [this journal article]({{< ref "/publication/mina_et-al_2025_ForestsMonitor/index.md" >}})
 
-We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/openaccess/products/forclim), a climate-sensitive forest succession (“gap”) model developed to simulate forest stand dynamics over a wide range of environmental conditions. In ForClim, establishment, growth, competition and mortality of trees are simulated on small areas (‘patches’) using only a minimum of ecological assumptions to capture the influence of climate and ecological processes on long-term forest dynamics. The model has been tested comprehensively for the representation of natural forest dynamics of temperate forests of the Northern Hemisphere, with an emphasis on [European and Alpine mountain forests]({{< ref "/publication/mina_et-al_2017_JAppEco/index.md" >}}). It has been developed and maintained by the professorship for Forest Ecology at ETH Zurich.
+We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/openaccess/products/forclim), a climate-sensitive forest succession (“gap”) model developed to simulate forest stand dynamics over a wide range of environmental conditions. The model has been tested comprehensively for the representation of natural forest dynamics of temperate forests of the Northern Hemisphere, with an emphasis on [European and Alpine mountain forests]({{< ref "/publication/mina_et-al_2017_JAppEco/index.md" >}}). It has been developed and maintained by the professorship for Forest Ecology at ETH Zurich.
 
 ![](/img/reinforce_models.png)
 
@@ -55,7 +55,7 @@ We also work with the *forest stand model* [ForClim](https://ites-fe.ethz.ch/ope
 
 ## Funding
 
-The project has been initially financed from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the [**Marie Skłodowska-Curie grant agreement No 891671**](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. The activities of the project are continuing within the Institute for Alpine Environment at Eurac Research.
+The project has been initially financed in 2021 from the European Union’s [**Horizon 2020**](https://ec.europa.eu/programmes/horizon2020/) research and innovation programme under the [**Marie Skłodowska-Curie grant agreement No 891671**](https://cordis.europa.eu/project/id/891671) awarded to Marco Mina (MSCA-IF-2019) and coordinated by [Eurac Research](https://www.eurac.edu/en/pages/default.aspx) in Bolzano/Bozen, South Tyrol, Italy. The modelling and research activities are continuing within the Institute for Alpine Environment at Eurac Research.
 
 ![](/img/reinforce_funding.png)
 
@@ -64,15 +64,15 @@ The project has been initially financed from the European Union’s [**Horizon 2
 ## Project team and collaborators
 
  - [**Marco Mina**](https://www.eurac.edu/en/people/marco-mina?institute=institute-for-alpine-environment) _Eurac Research, Italy_ ***Project manager***
- - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_, ***Vice project manager***
+ - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_  
+ - [**Erich Tasser**](https://www.eurac.edu/en/people/erich-ignaz-tasser) _Eurac Research_
  - [**Nikolaus Obojes**](https://www.eurac.edu/en/people/nikolaus-obojes) _Eurac Research_
  - [**Katharina Albrich**](https://www.luke.fi/en/henkilosto/katharina-albrich/) _Natural Resource Institute Finland (Luke)_
  - [**Alice Crespi**](https://www.eurac.edu/it/people/alice-crespi) _Eurac Research_
  
-## Current students
- - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ / _Free University of Bolzano_ - PhD student (Topic: _Forest landscape modelling, treeline dynamics and adaptive forest management_)
 
 ## Former students and interns
+ - **Sebastian Marzini** _Free University of Bolzano_ - PhD student (2021-2026). Title of the thesis: _Modelling Mountain Forest Landscapes Under Global Change - Pathways to the Future_)
  - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Feb-Dec 2023)
  - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Feb-Dec 2023)
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Feb-Dec 2022)
@@ -86,6 +86,8 @@ The project is run in cooperation with the [**Forest Planning Office**](https://
 
 -----------------------------
 ## Key publications
+
+Marzini S, Albrich K, Crespi, Tasser E, Wellstein C, and **Mina M** (2026). [*Naturalness of forest composition affects vulnerability to climate change and disturbances in Alpine mountain landscapes*]({{< ref "/publication/marzini_et-al_2026_preprint/index.md" >}}). bioRxiv 2026.01.29.702232.
 
 **Mina M.**, Marzini S., Crespi A., Albrich K. (2025). [*Building virtual forest landscapes to support forest management: the challenge of parameterization*]({{< ref "/publication/mina_et-al_2025_ForestsMonitor/index.md" >}}). Forests Monitor 2(1), 49-96. 
 

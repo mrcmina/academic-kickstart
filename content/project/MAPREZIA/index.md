@@ -55,6 +55,7 @@ The project is funded under the programme [**INTERREG Italy-Switzerland 2021-202
 ## Team members at Eurac
  - [**Sebastian Marzini**](https://www.eurac.edu/en/people/sebastian-marzini) _Eurac Research_ - Researcher
  - [**Mathilde Maure**](https://www.eurac.edu/en/people/mathilde-maure) _Eurac Research_ - Project assistant
+ - [**Matteo Gecchelin**](https://www.eurac.edu/en/people/matteo-gecchelin) _Eurac Research_ - PhD Student  
 
 
 -----------------------------
