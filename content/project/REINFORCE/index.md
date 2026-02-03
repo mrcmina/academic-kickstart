@@ -72,7 +72,7 @@ The project has been initially financed in 2021 from the European Union’s [**H
  
 
 ## Former students and interns
- - **Sebastian Marzini** _Free University of Bolzano_ - PhD student (2021-2026). Title of the thesis: _Modelling Mountain Forest Landscapes Under Global Change - Pathways to the Future_)
+ - **Sebastian Marzini** _Free University of Bolzano_ - PhD student (2021-2026). Title of the thesis: _Modelling Mountain Forest Landscapes Under Global Change - Pathways to the Future_
  - **Matteo Gecchelin** _University of Innsbruck_ - MSc student (Feb-Dec 2023)
  - **Francesca Eccher** _Free University of Bolzano_ - MSc student (Feb-Dec 2023)
  - **Laurin Hillebrand**  _University of Innsbruck_ - MSc student (Feb-Dec 2022)

@@ -23,7 +23,7 @@ featured: true
 publication: "*bioRxiv* 2026.01.29.702232"
 publication_short: ""
 
-abstract: add abstract
+abstract: European mountain forests have been shaped by human activities, affecting their structure and composition. Using a process-based forest landscape model in the Italian Alps, we assessed how current tree species composition compares to potential natural composition and examined vulnerability to disturbances under climate change. Results show that current forests generally have low naturalness, especially at low and high elevations, and are more prone to bark beetle outbreaks, while potential forests are more susceptible to wind disturbance due to old-growth traits. Our findings highlight that simply promoting natural forest conditions may not ensure resilience to climate-induced disturbances; instead, management should focus on enhancing structural and compositional heterogeneity to reduce future vulnerability.
 
 
 links:
