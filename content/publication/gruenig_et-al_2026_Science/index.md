@@ -58,7 +58,7 @@ featured: true
 publication: "*Science* 391, 6789"
 publication_short: ""
 
-abstract: Climate change has already increased the occurrence of wildfires, convective storms, and bark beetle outbreaks, all of which are major drivers of tree mortality in forests. However, the future trajectories of these disturbances are unknown, particularly because they can interact with one another. Thsi study projected changes in disturbance rates and tree mortality across Europe in the 21st century under three climate change scenarios. They predicted an increase in disturbance-induced mortality especially that due to wildfires. These changes will lead to a decline in old forests and an increase in young forests, particularly in the Mediterranean, with implications for carbon sequestration and biodiversity.
+abstract: Climate change has already increased the occurrence of wildfires, convective storms, and bark beetle outbreaks, all of which are major drivers of tree mortality in forests. However, the future trajectories of these disturbances are unknown, particularly because they can interact with one another. This study projected changes in disturbance rates and tree mortality across Europe in the 21st century under three climate change scenarios. They predicted an increase in disturbance-induced mortality especially that due to wildfires. These changes will lead to a decline in old forests and an increase in young forests, particularly in the Mediterranean, with implications for carbon sequestration and biodiversity.
 
 
 links:
