@@ -14,7 +14,7 @@ doi: "https://doi.org/10.62320/fm.v2i1.19"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-featured: true
+featured: false
 
 # Publication name and optional abbreviated publication name.
 publication: "*Forests Monitor*  2(1), 49-96"
