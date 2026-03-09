@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2026-01-19T14:00:00Z"
 date_end: "2026-01-19T17:00:00Z"
-event: Lecture for the general public (in Italian)
+event: Scuola del Lunedi - lecture for the general public (in Italian)
 event_url: 'https://www.vipiu.it/leggi/il-futuro-delle-foreste-come-i-boschi-si-adattano-al-cambiamento-climatico-marco-mina-ospite-alla-scuola-del-lunedi/'
 featured: false
 image:
