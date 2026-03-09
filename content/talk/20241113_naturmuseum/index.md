@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2024-11-13T18:00:00Z"
 date_end: "2024-11-13T19:00:00Z"
-event: Colloquium der Plattform Biodiversität/Colloquio Piattaforma Biodiversità. I gave a seminar open to the public where I talked about options to foster biodiversity conservation with forest management.
+event: Colloquium der Plattform Biodiversität/Colloquio Piattaforma Biodiversità.
 event_url: 'https://www.natura.museum/it/videos/conferenze/'
 featured: false
 image:
