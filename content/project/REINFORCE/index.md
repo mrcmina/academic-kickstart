@@ -95,8 +95,6 @@ Marzini S, Tasser E, Wellstein C, Albrich K, Rammer W, and **Mina M** (2025). [*
 
 Hillebrand L, Marzini S, Crespi A, Hiltner U and **Mina M** (2023). [*Contrasting impacts of climate change on protection forests of the Italian Alps*]({{< ref "/publication/hillebrand_et-al_2023_Frontiers/index.md" >}}). Frontiers in Forests and Global Change 6 1240235. 
 
-Suárez-Muñoz M, Bonet-García F, Navarro-Cerrillo RM, Herrero J, and **Mina M** (2023). [*Forest management scenarios drive future dynamics of Mediterranean planted pine forests under climate change*]({{< ref "/publication/suarezmunoz_et-al_2023_landscecol/index.md" >}}). Landscape Ecology 38, 2069–2084. 
-
 **Mina M**, Messier C, Duveneck M, Fortin MJ and Aquilué N (2022). [*Managing for the unexpected - Building resilient forest landscapes to cope with global change*]({{< ref "/publication/mina_et-al_2022_GlobChBiol/index.md" >}}). Global Change Biology. 28, 4323– 4341. 
 
 
