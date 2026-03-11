@@ -65,6 +65,6 @@ The project is funded under the call [**Call: G-03-2024-2 Establishing Climate-S
  - [**Tamara Bibbó**](https://www.eurac.edu/en/people/tamara-bibbo) _Eurac Research_
 
 
-
+The project is run in cooperation with the [**Forestry Agency of the Provincial Property / Azienda Forestale Demaniale**](https://servizio-forestale.provincia.bz.it/it/azienda-forestale-dell-agenzia-demanio-provinciale/home) of the Autonomous Province of South Tyrol 
 
 
