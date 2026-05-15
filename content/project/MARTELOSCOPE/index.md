@@ -45,6 +45,7 @@ At Eurac Research, we completed the characterization of the stand: for each tree
 
 The Colle/Kohlern marteloscope has been used as a demonstration area for forest education activities, with workshops for secondary school and university students focused on inventory data collection methodologies and microhabitat identification. The area is planned to be used as an open-air classroom for silvicultural simulations, research, and permanent monitoring. Eurac Research installed microclimatic sensors and dendrometers for real-time measurement of species growth, as well as testing new forest data acquisition technologies by comparing them with traditional methods.
 
+-----------------------------
 
 ## Funding
 
@@ -62,14 +63,18 @@ The project is run under internal funding of Eurac Research.
 
 The area is managed in cooperation with the [**Forest Planning Office**](https://www.provincia.bz.it/it/contatti.asp?orga_orgaid=970) of the Autonomous Province of South Tyrol. The surface is property of the Municipality of Bolzano/Bozen.
 
+-----------------------------
+
 Here you can download the [InfoSheet of the Marteloscope Colle di Bolzano](http://iplus.efi.int/uploads/IT_InfoSheet_Colle_di_Bolzano.pdf)
 
 ---------------
+
 **Se siete interessati a visitare il sito e a parecipare alle attivitá, prego contattare il team di progetto**
 
 **Wenn Sie den Projektstandort besuchen und an den Aktivitäten teilnehmen möchten, wenden Sie sich bitte an das Projektteam.**
 
 **If you are interested in visiting the site and to participate in an exercise, please contact the project team.**
+
 ---------------
 
 
