@@ -33,9 +33,10 @@ The objective of ALPFOR-CSF is to establish new field trials for long-term fores
 
 **Methodology**
 
-Field trials are set in three representative sites in South Tyrol (Italy) involving control (unharvested + business-as-usual) and CSF-adapted silvicultural treatments on Norway spruce-dominated stands mixed with silver fir, European larch, and Swiss stone pine. CSF interventions focus on diversifying species composition, increasing structural heterogeneity, and enhancing deadwood to support ecosystem services and forest adaptation to climate stressors like drought.
+Field trials are set in two forest stands in  Norway spruce-dominated mountain forests of the Dolomites in the province of South Tyrol, Italy. The first one is located in the proximity of the Nigrerpass/Passo Nigra, between the Tierstal/val di Tires and the Karerpass/Passo di Carezza, at 1680 m a.s.l., and it is surrounded by areas recently disturbed by the Vaia storm. The second one is located in the Funes valley/Villnosstal, at also 1700 m a.s.l., near the Naturpark Puez-Geisler. Both sites are mainly dominated by Norway spruce and present a high density in terms of tree number requiring critical intervention. In each trial, two separate portion of the stand will be treated with two different type of thinning interventions: traditional vs climate-smart forestry (CSF). CSF interventions focus on increasing structural heterogeneity, diversifying species composition, and enhancing deadwood to support ecosystem services and forest adaptation to climate stressors like drought.
+![](/img/alpfor_areas.png)
 
-Data collection occurs at two levels: stand-level (approx. 1 ha) and tree-level (five smaller sampling plots). Measurements include forest structure, species composition, site conditions, canopy properties via ground-based and UAV imagery, tree growth via dendrometers, soil carbon content, microclimate monitoring, deadwood biomass, and regeneration. These comprehensive datasets enable calculation of CSF indicators and evaluation of ecosystem service provisioning. Additionally, the a forest simulation model will predict future forest dynamics under climate change and management scenarios
+Forest responses to different treatments will be quantified with multiple data collected at two levels: stand-level (entire trial surface, 1-2 ha) and tree-level (sampling plots). Measurements include forest structure, species composition, site conditions, canopy properties via ground-based and UAV LiDAR and imagery, tree growth via dendrometers, soil carbon content, microclimate monitoring, deadwood biomass, and regeneration. These comprehensive datasets enable calculation of CSF indicators and evaluation of ecosystem service provisioning. In a second step, a forest simulation model will applied to predict future forest dynamics under climate change scenarios.
 
 The project is implementated in four work packages (WP).
 
@@ -66,5 +67,10 @@ The project is funded under the call [**Call: G-03-2024-2 Establishing Climate-S
 
 
 The project is run in cooperation with the [**Forestry Agency of the Provincial Property / Azienda Forestale Demaniale**](https://servizio-forestale.provincia.bz.it/it/azienda-forestale-dell-agenzia-demanio-provinciale/home) of the Autonomous Province of South Tyrol 
+
+-----------------------------
+*ALPFOR-CSF tial sites pre-harvesting and discussion on CSF practices with forest managers  (2025-2026)*
+
+{{< gallery album="alpfor-album" >}}
 
 

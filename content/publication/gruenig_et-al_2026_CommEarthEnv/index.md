@@ -1,0 +1,72 @@
+---
+title: "Loss of competitive strength in European conifer species under climate change"
+authors:
+- Grünig M. 
+- Rammer W. 
+- Baumann M.
+- Albrich K. 
+- André F. 
+- Augustynczik ALD. 
+- Bohn F.
+- Bouwmann M.
+- Bugmann H. 
+- Collalti A. 
+- Cristal I. 
+- Dalmonech D. 
+- De Caceres M.
+- De Coligny F. 
+- Dobor L. 
+- Dollinger C. 
+- Forrester DI.
+- Garcia-Gonzalo J. 
+- González JR. 
+- Hiltner U. 
+- Hlásny T. 
+- Honkaniemi J. 
+- Huber N. 
+- Jonard M. 
+- Jonsson AM.
+- Lagergren F.
+- Mina M. 
+- Mohren F.
+- Moos C.  
+- Morin X. 
+- Muys B. 
+- Nieberg M.
+- Peltoniemi M. 
+- Reyer CPO.
+- Storms I. 
+- Thom D. 
+- Toigo M. 
+- Seidl R. 
+date: "2026-05-08T00:00:00Z"
+doi: "https://doi.org/10.1038/s43247-026-03582-0"
+
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article; 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+featured: false
+
+# Publication name and optional abbreviated publication name.
+publication: "*Communications Earth & Environment* 7, 401"
+publication_short: ""
+
+abstract: Climate change has already increased the occurrence of wildfires, convective storms, and bark beetle outbreaks, all of which are major drivers of tree mortality in forests. However, the future trajectories of these disturbances are unknown, particularly because they can interact with one another. This study projected changes in disturbance rates and tree mortality across Europe in the 21st century under three climate change scenarios. They predicted an increase in disturbance-induced mortality especially that due to wildfires. These changes will lead to a decline in old forests and an increase in young forests, particularly in the Mediterranean, with implications for carbon sequestration and biodiversity.
+
+
+links:
+#- name: "Blog post"
+#  url: "https:addlink"
+url_pdf: ""
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+---
