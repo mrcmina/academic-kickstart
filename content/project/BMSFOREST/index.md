@@ -46,18 +46,19 @@ The Biodiversity Monitoring South Tyrol was launched on the initiative of the go
 
 -----------------------------
 
-## Project team and collaborators
+## Collaborators
 
  - [**Chiara Paniccia**](https://www.eurac.edu/it/people/chiara-paniccia) _Eurac Research_
  - [**Andreas Hilpold**](https://www.eurac.edu/it/people/andreas-hilpold) _Eurac Research_
- - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_
+ - **Luca Savio** _Eurac Research_ - Collaborator for the mycological monitoring
 
 
-## Former students, interns and field assistants
+## Former students, interns, field assistants and collaborators
 - **Anouk Von Meijenfeldt** _Wageningen University_ - MSc student/Trainee researcher (Jul 2023 - March 2024)
 - **Francesca Rigo** _Wageningen University_ - MSc student/Trainee researcher (Jul 2022 - Jun 2023)
 - **Maria Suarez-Munoz** _University of Granada_ - Visiting Ph.D. student on Short Term Scientific Mission COST Bottoms-UP (Jul-Oct 2021)
 - **Michela Ferrari** _ETH Zurich_ - Trainee and field assistant (Oct-Nov 2021)
+ - [**Francesco Chianucci**](https://canopyphotography.wordpress.com/about/) _National Forestry Research Centre (CREA-FL)_ - External collaborator on canopy photography 
 
 
 -----------------------------
