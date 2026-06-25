@@ -7,7 +7,7 @@ all_day: false
 authors: []
 date: "2026-06-18T14:00:00Z"
 date_end: "2026-06-18T17:00:00Z"
-event: Keynote talk (in Italian) at the Congress of the Italian Academy of Forest Science "Cambiamento climatico, Vaia, bostrico: quale futuro per le foreste alpine?"
+event: Keynote talk at the Congress of the Italian Academy of Forest Science 'Cambiamento climatico, Vaia, bostrico - quale futuro per le foreste alpine? (in Italian)'
 event_url: 'https://www.aisf.it/2026/06/03/congresso-cambiamento-climatico-vaia-bostrico-quale-futuro-per-le-foreste-alpine-18-19-giugno-2026-padova/'
 featured: false
 image:
