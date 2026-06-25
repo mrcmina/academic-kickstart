@@ -60,7 +60,7 @@ abstract: Climate change is expected to alter species assemblages by affecting t
 links:
 #- name: "Blog post"
 #  url: "https:addlink"
-url_pdf: ""
+url_pdf: "publication/gruenig_et-al_2026_CommEarthEnv/gruenig_2026_commearthenv.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
