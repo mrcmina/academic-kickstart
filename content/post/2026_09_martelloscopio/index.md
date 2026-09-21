@@ -13,12 +13,11 @@ On Friday, September 18th 2026, we inaugurated the Marteloscope at Colle/Kohlern
 
 - Sul Colle di Bolzano nasce un nuovo martelloscopio, così si studia la gestione del bosco [_TV33 Alto Adige_](https://www.tv33.it/news/sul-colle-di-bolzano-nasce-un-nuovo-martelloscopio-cosi-si-studia-la-gestione-del-bosco)
 
+- Al Colle di Bolzano è arrivato il martelloscopio [_TGR Bolzano_](https://www.rainews.it/tgr/bolzano/articoli/2026/09/al-colle-di-bolzano-e-arrivato-il-martelloscopio-b38d7185-d491-4f91-ad3e-20cc22f49203.html)
+
+
 {{< youtube vXA4sWllpOY >}}
 
-
-
-
-- Al Colle di Bolzano è arrivato il martelloscopio [_TGR Bolzano_](https://www.rainews.it/tgr/bolzano/articoli/2026/09/al-colle-di-bolzano-e-arrivato-il-martelloscopio-b38d7185-d491-4f91-ad3e-20cc22f49203.html)
 
 {{< youtube cDCjzZqprt8 >}}
 
