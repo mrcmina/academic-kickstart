@@ -35,14 +35,14 @@ Marteloscopes are permanent areas, generally about 1 hectare in size, found thro
 
 The first European marteloscopes were introduced in the 1990s, and today the European [**Integrate Network**](https://integratenetwork.org/), coordinated by the [**European Forest Institute (EFI)**](https://https://efi.int//), promotes common criteria for establishing new areas: a surface area of about one hectare, preferably square and oriented north-south, representativeness of local forests, structural stability for at least 5–10 years, safety, and accessibility. EFI manages the European database and provides guidelines for adding new areas to the network, as well as converting the collected data into the format required by the I+ Trainer software.
 
-**The marteloscope of the Colle di Bolzano**
+**The Marteloscope of the Colle di Bolzano**
 
 In South Tyrol, Eurac Research’s Institute for the Alpine Environment, in collaboration with the Forest Planning Office of the Forestry Department, identified an area of about 0.7 hectares in the Colle di Bolzano locality, which is easily accessible from the city of Bolzano/Bozen by cable car and representative of local mountain forests. The area, owned by the Municipality of Bolzano, has been granted for use for ten years.
 
 The stand is mixed, with Norway spruce (*Picea abies*) and Scots pine (*Pinus sylvestris*) predominating, but beech, larch, silver fir, birch, and chestnut are also present. The basal area is 44.5 m²/ha, with a mean height of 21.5 m and a dominant height of about 30 m. The forest type is the silicatic spruce-fir-beech forest with Vaccinium myrtillus (FTB4), typical of the shaded slopes of the lower Adige Valley.
 At Eurac Research, we completed the characterization of the stand: for each tree, species, diameter, height, crown base height, and the presence of dendromicrohabitats (e.g., cavities, epiphytic structures, outgrowths) were recorded, which are useful for calculating the Potential Biodiversity Index, an indicator that is becoming increasingly relevant for sustainable forest management. A qualitative evaluation of the stem quality and and economic assessment has also been completed.
 
-Here you can download the [InfoSheet of the Marteloscope Colle di Bolzano](http://iplus.efi.int/uploads/IT_InfoSheet_Colle_di_Bolzano.pdf) with additional information about the characteristics of the forest. 
+Here you can find the official webpage in the Eurac website with information about the site [Institute for Alpine Environment Oper Air laboratories - Marteloscope](https://www.eurac.edu/en/institutes-centers/institute-for-alpine-environment/pages/marteloscope)download the [InfoSheet of the Marteloscope Colle di Bolzano](http://iplus.efi.int/uploads/IT_InfoSheet_Colle_di_Bolzano.pdf) with additional information about the characteristics of the forest. 
 
 ![](/img/marteloscope1.png)
 
