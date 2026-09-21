@@ -15,6 +15,8 @@ On Friday, September 18th 2026, we inaugurated the Marteloscope at Colle/Kohlern
 
 - Al Colle di Bolzano è arrivato il martelloscopio [_TGR Bolzano_](https://www.rainews.it/tgr/bolzano/articoli/2026/09/al-colle-di-bolzano-e-arrivato-il-martelloscopio-b38d7185-d491-4f91-ad3e-20cc22f49203.html)
 
+- Virtuell Waldpflege erlenen _Dolomiten, 19/09/2026_
+
 
 {{< youtube vXA4sWllpOY >}}
 
@@ -25,7 +27,9 @@ On Friday, September 18th 2026, we inaugurated the Marteloscope at Colle/Kohlern
 {{< youtube cDCjzZqprt8 >}}
 
 
+---
 
+![](/img/marteloscope_dolomiten.jpg)
 
 
 
