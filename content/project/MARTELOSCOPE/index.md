@@ -78,3 +78,6 @@ The area is managed in cooperation with the [**Forest Planning Office**](https:/
 ---------------
 
 
+{{< youtube vXA4sWllpOY >}}
+
+
