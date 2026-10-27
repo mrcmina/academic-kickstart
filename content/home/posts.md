@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Posts and Media"
-subtitle = "I occasionally publish posts in the [EFI Resilience Blog](https://resilience-blog.com/) and in [Forest Monitor](https://www.blog.forest-monitor.com/en/). Here also featured articles in the web, interviews and dissemination"
+title = "Dissemination"
+subtitle = "Press releases, non-academic publications, blog posts, popular medias, interviews and other communication activities"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

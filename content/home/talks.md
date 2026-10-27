@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Talks given at seminars, conferences and lectures"
-subtitle = "See my [CV](/files/cv.pdf) for contributions prior 2016"
+title = "Talks"
+subtitle = "Public talks at conferences, events and lectures. See my [CV](/files/cv.pdf) for contributions prior 2016"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
